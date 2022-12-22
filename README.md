@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 23, 2022 01:08 +0800</u> (🤖automated)
+  🕒 Updated at <u>Dec 23, 2022 01:32 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -23,7 +23,7 @@
     <td>830</td>
   </tr>
   <tr>
-    <td>Days Active</td>
+    <td>Days active</td>
     <td>812</td>
   </tr>
   <tr>
@@ -31,7 +31,7 @@
     <td>61</td>
   </tr>
   <tr>
-    <td>Waypoints Unlocked</td>
+    <td>Waypoints unlocked</td>
     <td>244</td>
   </tr>
   <tr>
@@ -43,7 +43,7 @@
     <td>131</td>
   </tr>
   <tr>
-    <td>dendroculi</td>
+    <td>Dendroculi</td>
     <td>180</td>
   </tr>
   <tr>
@@ -51,27 +51,27 @@
     <td>181</td>
   </tr>
   <tr>
-    <td>Common Chests Opened</td>
+    <td>Common chests opened</td>
     <td>2319</td>
   </tr>
   <tr>
-    <td>Exquisite Chests Opened</td>
+    <td>Exquisite chests opened</td>
     <td>1508</td>
   </tr>
   <tr>
-    <td>Precious Chests Opened</td>
+    <td>Precious chests opened</td>
     <td>450</td>
   </tr>
   <tr>
-    <td>Luxurious Chests Opened</td>
+    <td>Luxurious chests opened</td>
     <td>174</td>
   </tr>
   <tr>
-    <td>Remarkable Chests Opened</td>
+    <td>Remarkable chests opened</td>
     <td>115</td>
   </tr>
   <tr>
-    <td>Domains Unlocked</td>
+    <td>Domains unlocked</td>
     <td>42</td>
   </tr>
 </table>
@@ -396,11 +396,11 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>9901 (rate 18)</td>
+    <td>9901 (18%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>7599299 (rate -20)</td>
+    <td>7599299 (-20%)</td>
   </tr>
   <tr>
     <td>Categories</td>
@@ -413,7 +413,7 @@
 </table>
 
 <h2>Characters</h2>
-<details open>
+<details>
   <summary><b>Aloy</b></summary>
   <br />
   <table>
@@ -426,6 +426,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Aloy.png"
+            width="180"
           />
         </p>
       </td>
@@ -433,6 +434,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Predator.png"
+            width="180"
           />
         </p>
       </td>
@@ -506,6 +508,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+            width="180"
           />
         </p>
       </td>
@@ -513,6 +516,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Narukami.png"
+            width="180"
           />
         </p>
       </td>
@@ -586,6 +590,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
+            width="180"
           />
         </p>
       </td>
@@ -593,6 +598,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Falcon.png"
+            width="180"
           />
         </p>
       </td>
@@ -666,6 +672,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png"
+            width="180"
           />
         </p>
       </td>
@@ -673,6 +680,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Blackrock.png"
+            width="180"
           />
         </p>
       </td>
@@ -746,6 +754,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
+            width="180"
           />
         </p>
       </td>
@@ -753,6 +762,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Dvalin.png"
+            width="180"
           />
         </p>
       </td>
@@ -826,6 +836,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
+            width="180"
           />
         </p>
       </td>
@@ -833,6 +844,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Blackrock.png"
+            width="180"
           />
         </p>
       </td>
@@ -906,6 +918,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Klee.png"
+            width="180"
           />
         </p>
       </td>
@@ -913,6 +926,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png"
+            width="180"
           />
         </p>
       </td>
@@ -986,6 +1000,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+            width="180"
           />
         </p>
       </td>
@@ -993,6 +1008,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Windvane.png"
+            width="180"
           />
         </p>
       </td>
@@ -1069,6 +1085,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tartaglia.png"
+            width="180"
           />
         </p>
       </td>
@@ -1076,6 +1093,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Blackrock.png"
+            width="180"
           />
         </p>
       </td>
@@ -1152,6 +1170,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qiqi.png"
+            width="180"
           />
         </p>
       </td>
@@ -1159,6 +1178,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Kasabouzu.png"
+            width="180"
           />
         </p>
       </td>
@@ -1232,6 +1252,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
+            width="180"
           />
         </p>
       </td>
@@ -1239,6 +1260,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Amos.png"
+            width="180"
           />
         </p>
       </td>
@@ -1312,6 +1334,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Albedo.png"
+            width="180"
           />
         </p>
       </td>
@@ -1319,6 +1342,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Opus.png"
+            width="180"
           />
         </p>
       </td>
@@ -1392,6 +1416,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png"
+            width="180"
           />
         </p>
       </td>
@@ -1399,6 +1424,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Narukami.png"
+            width="180"
           />
         </p>
       </td>
@@ -1472,6 +1498,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Keqing.png"
+            width="180"
           />
         </p>
       </td>
@@ -1479,6 +1506,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Mitsurugi.png"
+            width="180"
           />
         </p>
       </td>
@@ -1552,6 +1580,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+            width="180"
           />
         </p>
       </td>
@@ -1559,6 +1588,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Homa.png"
+            width="180"
           />
         </p>
       </td>
@@ -1634,6 +1664,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+            width="180"
           />
         </p>
       </td>
@@ -1641,6 +1672,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Widsith.png"
+            width="180"
           />
         </p>
       </td>
@@ -1714,6 +1746,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
+            width="180"
           />
         </p>
       </td>
@@ -1721,6 +1754,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Narukami.png"
+            width="180"
           />
         </p>
       </td>
@@ -1796,6 +1830,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png"
+            width="180"
           />
         </p>
       </td>
@@ -1803,6 +1838,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Dragonfell.png"
+            width="180"
           />
         </p>
       </td>
@@ -1876,6 +1912,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+            width="180"
           />
         </p>
       </td>
@@ -1883,6 +1920,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Dvalin.png"
+            width="180"
           />
         </p>
       </td>
@@ -1958,6 +1996,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
+            width="180"
           />
         </p>
       </td>
@@ -1965,6 +2004,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Kaleido.png"
+            width="180"
           />
         </p>
       </td>
@@ -2038,6 +2078,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Itto.png"
+            width="180"
           />
         </p>
       </td>
@@ -2045,6 +2086,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Exotic.png"
+            width="180"
           />
         </p>
       </td>
@@ -2118,6 +2160,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+            width="180"
           />
         </p>
       </td>
@@ -2125,6 +2168,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Proto.png"
+            width="180"
           />
         </p>
       </td>
@@ -2198,6 +2242,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+            width="180"
           />
         </p>
       </td>
@@ -2205,6 +2250,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Widsith.png"
+            width="180"
           />
         </p>
       </td>
@@ -2280,6 +2326,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
+            width="180"
           />
         </p>
       </td>
@@ -2287,6 +2334,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Morax.png"
+            width="180"
           />
         </p>
       </td>
@@ -2364,6 +2412,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayato.png"
+            width="180"
           />
         </p>
       </td>
@@ -2371,6 +2420,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Psalmus.png"
+            width="180"
           />
         </p>
       </td>
@@ -2444,6 +2494,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tighnari.png"
+            width="180"
           />
         </p>
       </td>
@@ -2451,6 +2502,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Hunters.png"
+            width="180"
           />
         </p>
       </td>
@@ -2524,6 +2576,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nilou.png"
+            width="180"
           />
         </p>
       </td>
@@ -2531,6 +2584,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Deshret.png"
+            width="180"
           />
         </p>
       </td>
@@ -2604,6 +2658,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
+            width="180"
           />
         </p>
       </td>
@@ -2611,6 +2666,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gewalt.png"
+            width="180"
           />
         </p>
       </td>
@@ -2684,6 +2740,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+            width="180"
           />
         </p>
       </td>
@@ -2691,6 +2748,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Ayus.png"
+            width="180"
           />
         </p>
       </td>
@@ -2764,6 +2822,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Lisa.png"
+            width="180"
           />
         </p>
       </td>
@@ -2771,6 +2830,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Zephyrus.png"
+            width="180"
           />
         </p>
       </td>
@@ -2844,6 +2904,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Barbara.png"
+            width="180"
           />
         </p>
       </td>
@@ -2851,6 +2912,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Apprentice.png"
+            width="180"
           />
         </p>
       </td>
@@ -2924,6 +2986,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kaeya.png"
+            width="180"
           />
         </p>
       </td>
@@ -2931,6 +2994,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Exotic.png"
+            width="180"
           />
         </p>
       </td>
@@ -3006,6 +3070,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Razor.png"
+            width="180"
           />
         </p>
       </td>
@@ -3013,6 +3078,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Troupe.png"
+            width="180"
           />
         </p>
       </td>
@@ -3086,6 +3152,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ambor.png"
+            width="180"
           />
         </p>
       </td>
@@ -3093,6 +3160,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Recluse.png"
+            width="180"
           />
         </p>
       </td>
@@ -3166,6 +3234,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+            width="180"
           />
         </p>
       </td>
@@ -3173,6 +3242,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Mori.png"
+            width="180"
           />
         </p>
       </td>
@@ -3248,6 +3318,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Beidou.png"
+            width="180"
           />
         </p>
       </td>
@@ -3255,6 +3326,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Kione.png"
+            width="180"
           />
         </p>
       </td>
@@ -3328,6 +3400,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+            width="180"
           />
         </p>
       </td>
@@ -3335,6 +3408,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Fossil.png"
+            width="180"
           />
         </p>
       </td>
@@ -3408,6 +3482,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ningguang.png"
+            width="180"
           />
         </p>
       </td>
@@ -3415,6 +3490,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Apprentice.png"
+            width="180"
           />
         </p>
       </td>
@@ -3491,6 +3567,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png"
+            width="180"
           />
         </p>
       </td>
@@ -3498,6 +3575,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Hunters.png"
+            width="180"
           />
         </p>
       </td>
@@ -3575,6 +3653,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+            width="180"
           />
         </p>
       </td>
@@ -3582,6 +3661,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Magnum.png"
+            width="180"
           />
         </p>
       </td>
@@ -3655,6 +3735,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Noel.png"
+            width="180"
           />
         </p>
       </td>
@@ -3662,6 +3743,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Fossil.png"
+            width="180"
           />
         </p>
       </td>
@@ -3735,6 +3817,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Chongyun.png"
+            width="180"
           />
         </p>
       </td>
@@ -3742,6 +3825,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_MillenniaTuna.png"
+            width="180"
           />
         </p>
       </td>
@@ -3817,6 +3901,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png"
+            width="180"
           />
         </p>
       </td>
@@ -3824,6 +3909,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Fleurfair.png"
+            width="180"
           />
         </p>
       </td>
@@ -3897,6 +3983,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
+            width="180"
           />
         </p>
       </td>
@@ -3904,6 +3991,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Fossil.png"
+            width="180"
           />
         </p>
       </td>
@@ -3977,6 +4065,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xinyan.png"
+            width="180"
           />
         </p>
       </td>
@@ -3984,6 +4073,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Dvalin.png"
+            width="180"
           />
         </p>
       </td>
@@ -4057,6 +4147,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Rosaria.png"
+            width="180"
           />
         </p>
       </td>
@@ -4064,6 +4155,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png"
+            width="180"
           />
         </p>
       </td>
@@ -4137,6 +4229,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Feiyan.png"
+            width="180"
           />
         </p>
       </td>
@@ -4144,6 +4237,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Jyanome.png"
+            width="180"
           />
         </p>
       </td>
@@ -4219,6 +4313,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
+            width="180"
           />
         </p>
       </td>
@@ -4226,6 +4321,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Noire.png"
+            width="180"
           />
         </p>
       </td>
@@ -4299,6 +4395,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sayu.png"
+            width="180"
           />
         </p>
       </td>
@@ -4306,6 +4403,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Proto.png"
+            width="180"
           />
         </p>
       </td>
@@ -4379,6 +4477,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Gorou.png"
+            width="180"
           />
         </p>
       </td>
@@ -4386,6 +4485,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Hunters.png"
+            width="180"
           />
         </p>
       </td>
@@ -4459,6 +4559,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sara.png"
+            width="180"
           />
         </p>
       </td>
@@ -4466,6 +4567,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Hunters.png"
+            width="180"
           />
         </p>
       </td>
@@ -4539,6 +4641,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
+            width="180"
           />
         </p>
       </td>
@@ -4546,6 +4649,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Dvalin.png"
+            width="180"
           />
         </p>
       </td>
@@ -4619,6 +4723,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yunjin.png"
+            width="180"
           />
         </p>
       </td>
@@ -4626,6 +4731,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Ruby.png"
+            width="180"
           />
         </p>
       </td>
@@ -4702,6 +4808,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shinobu.png"
+            width="180"
           />
         </p>
       </td>
@@ -4709,6 +4816,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Blunt.png"
+            width="180"
           />
         </p>
       </td>
@@ -4782,6 +4890,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Collei.png"
+            width="180"
           />
         </p>
       </td>
@@ -4789,6 +4898,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Fossil.png"
+            width="180"
           />
         </p>
       </td>
@@ -4864,6 +4974,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Dori.png"
+            width="180"
           />
         </p>
       </td>
@@ -4871,6 +4982,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Wolfmound.png"
+            width="180"
           />
         </p>
       </td>
@@ -4944,6 +5056,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Candace.png"
+            width="180"
           />
         </p>
       </td>
@@ -4951,6 +5064,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gladiator.png"
+            width="180"
           />
         </p>
       </td>
@@ -5024,6 +5138,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Wanderer.png"
+            width="180"
           />
         </p>
       </td>
@@ -5031,6 +5146,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Fourwinds.png"
+            width="180"
           />
         </p>
       </td>
@@ -5104,6 +5220,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Layla.png"
+            width="180"
           />
         </p>
       </td>
@@ -5111,6 +5228,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Morax.png"
+            width="180"
           />
         </p>
       </td>
@@ -5187,6 +5305,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Faruzan.png"
+            width="180"
           />
         </p>
       </td>
@@ -5194,6 +5313,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Zephyrus.png"
+            width="180"
           />
         </p>
       </td>
@@ -5269,6 +5389,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerBoy.png"
+            width="180"
           />
         </p>
       </td>
@@ -5276,6 +5397,7 @@
         <p align="center">
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Blunt.png"
+            width="180"
           />
         </p>
       </td>
