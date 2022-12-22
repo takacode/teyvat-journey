@@ -141,7 +141,7 @@
 </table>
 
 <h2>Characters</h2>
-{%- for character in user.characters -%}
+{%- for character in user.characters|sort(attribute='name') -%}
   <details>
     <summary><b>{{ character.name }}</b></summary>
     <br />
