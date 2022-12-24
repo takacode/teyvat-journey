@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 24, 2022 00:24 +0800</u> (🤖automated)
+  🕒 Updated at <u>Dec 25, 2022 00:24 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>24</td>
+    <td>25</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>3 x Hero's Wit</td>
   </tr>
 </table>
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>813</td>
+    <td>814</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -281,7 +281,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>4073</td>
+    <td>4078</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -324,16 +324,16 @@
         height="18"
       />
       Yelan (8)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (8)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
         ,
         height="18"
       />
-      Sangonomiya Kokomi (8)<br />
+      Sangonomiya Kokomi (8)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (8)<br />
     </td>
   </tr>
   <tr>
@@ -396,18 +396,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>10221 (21%)</td>
+    <td>10371 (23%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>7830624 (-18%)</td>
+    <td>7948057 (-16%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 2490 (25%)<br />Events: 2420 (24%)<br />Adventure: 1859 (19%)<br />Daily
-      Activity: 1380 (13%)<br />Spiral Abyss: 1200 (11%)<br />Quests: 460
-      (4%)<br />Other: 412 (4%)<br />
+      Mail: 2520 (25%)<br />Events: 2480 (24%)<br />Adventure: 1859 (18%)<br />Daily
+      Activity: 1440 (14%)<br />Spiral Abyss: 1200 (12%)<br />Quests: 460
+      (4%)<br />Other: 412 (3%)<br />
     </td>
   </tr>
 </table>
