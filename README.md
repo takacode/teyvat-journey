@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 25, 2022 00:24 +0800</u> (🤖automated)
+  🕒 Updated at <u>Dec 26, 2022 00:23 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>25</td>
+    <td>26</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Hero's Wit</td>
+    <td>3 x Almond Tofu</td>
   </tr>
 </table>
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>814</td>
+    <td>815</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -281,7 +281,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>4078</td>
+    <td>4083</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -319,16 +319,16 @@
         height="18"
       />
       Bennett (14)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (8)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
         ,
         height="18"
       />
       Sangonomiya Kokomi (8)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (8)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
@@ -396,17 +396,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>10371 (23%)</td>
+    <td>10521 (25%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>7948057 (-16%)</td>
+    <td>8133068 (-14%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 2520 (25%)<br />Events: 2480 (24%)<br />Adventure: 1859 (18%)<br />Daily
-      Activity: 1440 (14%)<br />Spiral Abyss: 1200 (12%)<br />Quests: 460
+      Mail: 2550 (25%)<br />Events: 2540 (25%)<br />Adventure: 1859 (18%)<br />Daily
+      Activity: 1500 (14%)<br />Spiral Abyss: 1200 (11%)<br />Quests: 460
       (4%)<br />Other: 412 (3%)<br />
     </td>
   </tr>
@@ -1690,7 +1690,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -4585,7 +4585,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>5</td>
+            <td>6</td>
           </tr>
           <tr>
             <td>Constellation</td>
