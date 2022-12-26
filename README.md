@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 26, 2022 00:23 +0800</u> (🤖automated)
+  🕒 Updated at <u>Dec 27, 2022 00:24 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>26</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Almond Tofu</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>815</td>
+    <td>816</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -281,7 +281,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>4083</td>
+    <td>4088</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -396,17 +396,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>10521 (25%)</td>
+    <td>10701 (27%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>8133068 (-14%)</td>
+    <td>8398080 (-12%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 2550 (25%)<br />Events: 2540 (25%)<br />Adventure: 1859 (18%)<br />Daily
-      Activity: 1500 (14%)<br />Spiral Abyss: 1200 (11%)<br />Quests: 460
+      Events: 2660 (25%)<br />Mail: 2550 (24%)<br />Adventure: 1859 (18%)<br />Daily
+      Activity: 1560 (15%)<br />Spiral Abyss: 1200 (11%)<br />Quests: 460
       (4%)<br />Other: 412 (3%)<br />
     </td>
   </tr>
