@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 27, 2022 00:24 +0800</u> (🤖automated)
+  🕒 Updated at <u>Dec 28, 2022 00:24 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>27</td>
+    <td>28</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>3 x Hero's Wit</td>
   </tr>
 </table>
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>816</td>
+    <td>817</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -281,7 +281,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>4088</td>
+    <td>4093</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -324,16 +324,16 @@
         height="18"
       />
       Sangonomiya Kokomi (8)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (8)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Xingqiu (8)<br />
+      Xingqiu (8)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (8)<br />
     </td>
   </tr>
   <tr>
@@ -396,17 +396,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>10701 (27%)</td>
+    <td>10801 (28%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>8398080 (-12%)</td>
+    <td>8494618 (-11%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 2660 (25%)<br />Mail: 2550 (24%)<br />Adventure: 1859 (18%)<br />Daily
-      Activity: 1560 (15%)<br />Spiral Abyss: 1200 (11%)<br />Quests: 460
+      Events: 2700 (25%)<br />Mail: 2550 (24%)<br />Adventure: 1859 (18%)<br />Daily
+      Activity: 1620 (15%)<br />Spiral Abyss: 1200 (11%)<br />Quests: 460
       (4%)<br />Other: 412 (3%)<br />
     </td>
   </tr>
