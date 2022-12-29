@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 29, 2022 00:24 +0800</u> (🤖automated)
+  🕒 Updated at <u>Dec 30, 2022 00:24 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>29</td>
+    <td>30</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>818</td>
+    <td>819</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -396,17 +396,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>10861 (29%)</td>
+    <td>10921 (30%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>8585088 (-10%)</td>
+    <td>8735563 (-8%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
       Events: 2700 (25%)<br />Mail: 2550 (24%)<br />Adventure: 1859 (18%)<br />Daily
-      Activity: 1680 (15%)<br />Spiral Abyss: 1200 (11%)<br />Quests: 460
+      Activity: 1740 (16%)<br />Spiral Abyss: 1200 (10%)<br />Quests: 460
       (4%)<br />Other: 412 (3%)<br />
     </td>
   </tr>
@@ -1030,7 +1030,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>8</td>
+            <td>9</td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -2848,7 +2848,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>6</td>
+            <td>7</td>
           </tr>
           <tr>
             <td>Constellation</td>
