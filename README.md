@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 30, 2022 00:24 +0800</u> (🤖automated)
+  🕒 Updated at <u>Dec 31, 2022 00:23 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>30</td>
+    <td>31</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>819</td>
+    <td>820</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -281,7 +281,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>4093</td>
+    <td>4098</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -319,11 +319,6 @@
         height="18"
       />
       Bennett (14)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (8)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
@@ -333,7 +328,12 @@
         ,
         height="18"
       />
-      Sangonomiya Kokomi (8)<br />
+      Sangonomiya Kokomi (8)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (8)<br />
     </td>
   </tr>
   <tr>
@@ -396,17 +396,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>10921 (30%)</td>
+    <td>10981 (30%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>8735563 (-8%)</td>
+    <td>8987525 (-6%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 2700 (25%)<br />Mail: 2550 (24%)<br />Adventure: 1859 (18%)<br />Daily
-      Activity: 1740 (16%)<br />Spiral Abyss: 1200 (10%)<br />Quests: 460
+      Events: 2700 (25%)<br />Mail: 2550 (24%)<br />Adventure: 1859 (17%)<br />Daily
+      Activity: 1800 (17%)<br />Spiral Abyss: 1200 (10%)<br />Quests: 460
       (4%)<br />Other: 412 (3%)<br />
     </td>
   </tr>
@@ -1690,7 +1690,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>5</td>
+            <td>6</td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -2401,7 +2401,7 @@
   <table>
     <tr>
       <th><h3 align="center">Kamisato Ayato</h3></th>
-      <th><h3 align="center">Sword of Descension</h3></th>
+      <th><h3 align="center">Haran Geppaku Futsu</h3></th>
     </tr>
     <tr>
       <td>
@@ -2415,7 +2415,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Psalmus.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Amenoma.png"
             width="180"
           />
         </p>
@@ -2458,15 +2458,15 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Sword of Descension</td>
+            <td>Haran Geppaku Futsu</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>90</td>
+            <td>1</td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -3473,7 +3473,7 @@
   <table>
     <tr>
       <th><h3 align="center">Raiden Shogun</h3></th>
-      <th><h3 align="center">Skyward Spine</h3></th>
+      <th><h3 align="center">Engulfing Lightning</h3></th>
     </tr>
     <tr>
       <td>
@@ -3487,7 +3487,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Dvalin.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Narukami.png"
             width="180"
           />
         </p>
@@ -3514,7 +3514,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>1</td>
+            <td>3</td>
           </tr>
           <tr>
             <td>Artifacts</td>
@@ -3532,7 +3532,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Skyward Spine</td>
+            <td>Engulfing Lightning</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -3540,11 +3540,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>90</td>
+            <td>1</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>2</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
@@ -4343,7 +4343,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>1</td>
+            <td>2</td>
           </tr>
           <tr>
             <td>Artifacts</td>
@@ -4585,7 +4585,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>6</td>
+            <td>7</td>
           </tr>
           <tr>
             <td>Constellation</td>
