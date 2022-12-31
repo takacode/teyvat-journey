@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 31, 2022 00:23 +0800</u> (🤖automated)
+  🕒 Updated at <u>Jan 01, 2023 00:23 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>31</td>
+    <td>1</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>820</td>
+    <td>821</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -281,7 +281,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>4098</td>
+    <td>4103</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -319,21 +319,21 @@
         height="18"
       />
       Bennett (14)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Xingqiu (8)<br /><img
+      Yelan (8)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png"
         ,
         height="18"
       />
       Sangonomiya Kokomi (8)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Yelan (8)<br />
+      Xingqiu (8)<br />
     </td>
   </tr>
   <tr>
@@ -396,18 +396,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>10981 (30%)</td>
+    <td>11041 (31%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>8987525 (-6%)</td>
+    <td>9158676 (-4%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 2700 (25%)<br />Mail: 2550 (24%)<br />Adventure: 1859 (17%)<br />Daily
-      Activity: 1800 (17%)<br />Spiral Abyss: 1200 (10%)<br />Quests: 460
-      (4%)<br />Other: 412 (3%)<br />
+      Events: 2700 (25%)<br />Mail: 2550 (24%)<br />Daily Activity: 1860
+      (17%)<br />Adventure: 1859 (17%)<br />Spiral Abyss: 1200 (10%)<br />Quests:
+      460 (4%)<br />Other: 412 (3%)<br />
     </td>
   </tr>
 </table>
@@ -1205,7 +1205,7 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              4 x Emblem of Severed Fate<br />1 x Vermillion Hereafter<br />
+              1 x Emblem of Severed Fate<br />1 x Vermillion Hereafter<br />
             </td>
           </tr>
           <tr>
@@ -1394,7 +1394,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td>4</td>
           </tr>
         </table>
       </td>
@@ -2466,7 +2466,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>1</td>
+            <td>20</td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -2647,7 +2647,7 @@
   <table>
     <tr>
       <th><h3 align="center">Kujou Sara</h3></th>
-      <th><h3 align="center">Fading Twilight</h3></th>
+      <th><h3 align="center">Elegy for the End</h3></th>
     </tr>
     <tr>
       <td>
@@ -2661,7 +2661,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Fallensun.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Widsith.png"
             width="180"
           />
         </p>
@@ -2704,11 +2704,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Fading Twilight</td>
+            <td>Elegy for the End</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2716,7 +2716,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>5</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
@@ -3519,7 +3519,7 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              1 x Emblem of Severed Fate<br />1 x Vermillion Hereafter<br />
+              4 x Emblem of Severed Fate<br />1 x Vermillion Hereafter<br />
             </td>
           </tr>
           <tr>
@@ -3540,7 +3540,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>1</td>
+            <td>90</td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -5126,7 +5126,7 @@
   <table>
     <tr>
       <th><h3 align="center">Yelan</h3></th>
-      <th><h3 align="center">Elegy for the End</h3></th>
+      <th><h3 align="center">Fading Twilight</h3></th>
     </tr>
     <tr>
       <td>
@@ -5140,7 +5140,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Widsith.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Fallensun.png"
             width="180"
           />
         </p>
@@ -5185,11 +5185,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Elegy for the End</td>
+            <td>Fading Twilight</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -5197,7 +5197,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
