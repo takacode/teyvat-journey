@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jan 04, 2023 00:25 +0800</u> (🤖automated)
+  🕒 Updated at <u>Jan 05, 2023 00:32 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>4</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primogem</td>
+    <td>3 x Sweet Madame</td>
   </tr>
 </table>
 
@@ -20,11 +20,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>832</td>
+    <td>833</td>
   </tr>
   <tr>
     <td>Days active</td>
-    <td>824</td>
+    <td>825</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -396,17 +396,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>355 (-96%)</td>
+    <td>440 (-96%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>267274 (-97%)</td>
+    <td>367349 (-95%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 180 (51%)<br />Events: 160 (45%)<br />Adventure: 15
-      (4%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other:
+      Daily Activity: 240 (55%)<br />Events: 160 (37%)<br />Adventure: 20
+      (4%)<br />Mail: 20 (4%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
@@ -2466,7 +2466,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>68</td>
+            <td>71</td>
           </tr>
           <tr>
             <td>Refinement</td>
