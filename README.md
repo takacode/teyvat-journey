@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jan 06, 2023 00:28 +0800</u> (🤖automated)
+  🕒 Updated at <u>Jan 07, 2023 00:26 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>6</td>
+    <td>7</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>2 x Adventurer's Experience</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>826</td>
+    <td>827</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -312,44 +312,101 @@
   </tr>
   <tr>
     <td>Most Played Characters</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        ,
+        height="18"
+      />
+      Hu Tao (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (12)<br />
+    </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (63)<br />
+    </td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (291118)<br />
+    </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (75138)<br />
+    </td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (31)<br />
+    </td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (62)<br />
+    </td>
   </tr>
 </table>
 <h2>Diary</h2>
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1100 (-90%)</td>
+    <td>1400 (-87%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1067703 (-88%)</td>
+    <td>1492216 (-83%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (55%)<br />Daily Activity: 300 (28%)<br />Events: 160
-      (15%)<br />Adventure: 20 (1%)<br />Mail: 20 (1%)<br />Quests: 0 (0%)<br />Other:
+      Spiral Abyss: 600 (43%)<br />Events: 400 (29%)<br />Daily Activity: 360
+      (26%)<br />Adventure: 20 (1%)<br />Mail: 20 (1%)<br />Quests: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
@@ -817,7 +874,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>1 x Ocean-Hued Clam<br />1 x Vermillion Hereafter<br /></td>
+            <td>1 x Vermillion Hereafter<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -1102,7 +1159,7 @@
   <table>
     <tr>
       <th><h3 align="center">Collei</h3></th>
-      <th><h3 align="center">Sacrificial Bow</h3></th>
+      <th><h3 align="center">Windblume Ode</h3></th>
     </tr>
     <tr>
       <td>
@@ -1116,7 +1173,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Fossil.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Fleurfair.png"
             width="180"
           />
         </p>
@@ -1147,9 +1204,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>
-              1 x Emblem of Severed Fate<br />1 x Vermillion Hereafter<br />
-            </td>
+            <td>1 x Vermillion Hereafter<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -1161,7 +1216,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Sacrificial Bow</td>
+            <td>Windblume Ode</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -1350,7 +1405,7 @@
   <table>
     <tr>
       <th><h3 align="center">Diona</h3></th>
-      <th><h3 align="center">Windblume Ode</h3></th>
+      <th><h3 align="center">Sacrificial Bow</h3></th>
     </tr>
     <tr>
       <td>
@@ -1364,7 +1419,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Fleurfair.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Fossil.png"
             width="180"
           />
         </p>
@@ -1395,7 +1450,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>4 x Maiden Beloved<br /></td>
+            <td>4 x Maiden Beloved<br />1 x Noblesse Oblige<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -1407,7 +1462,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Windblume Ode</td>
+            <td>Sacrificial Bow</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -1642,7 +1697,7 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              4 x Emblem of Severed Fate<br />1 x Vermillion Hereafter<br />
+              1 x Emblem of Severed Fate<br />2 x Vermillion Hereafter<br />
             </td>
           </tr>
           <tr>
@@ -2409,7 +2464,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>71</td>
+            <td>82</td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -2590,7 +2645,7 @@
   <table>
     <tr>
       <th><h3 align="center">Kujou Sara</h3></th>
-      <th><h3 align="center">Elegy for the End</h3></th>
+      <th><h3 align="center">Fading Twilight</h3></th>
     </tr>
     <tr>
       <td>
@@ -2604,7 +2659,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Widsith.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Fallensun.png"
             width="180"
           />
         </p>
@@ -2635,7 +2690,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>1 x Vermillion Hereafter<br /></td>
+            <td>4 x Emblem of Severed Fate<br />1 x Ocean-Hued Clam<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2647,11 +2702,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Elegy for the End</td>
+            <td>Fading Twilight</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2659,7 +2714,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
@@ -5069,7 +5124,7 @@
   <table>
     <tr>
       <th><h3 align="center">Yelan</h3></th>
-      <th><h3 align="center">Fading Twilight</h3></th>
+      <th><h3 align="center">Elegy for the End</h3></th>
     </tr>
     <tr>
       <td>
@@ -5083,7 +5138,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Fallensun.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Widsith.png"
             width="180"
           />
         </p>
@@ -5128,11 +5183,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Fading Twilight</td>
+            <td>Elegy for the End</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -5140,7 +5195,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>5</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
