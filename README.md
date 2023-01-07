@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jan 07, 2023 00:26 +0800</u> (🤖automated)
+  🕒 Updated at <u>Jan 08, 2023 00:23 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>7</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>827</td>
+    <td>828</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -319,21 +319,21 @@
         height="18"
       />
       Zhongli (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
       Xingqiu (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Raiden Shogun (12)<br />
+      Hu Tao (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (12)<br />
     </td>
   </tr>
   <tr>
@@ -396,17 +396,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1400 (-87%)</td>
+    <td>1760 (-84%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1492216 (-83%)</td>
+    <td>1604891 (-82%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (43%)<br />Events: 400 (29%)<br />Daily Activity: 360
-      (26%)<br />Adventure: 20 (1%)<br />Mail: 20 (1%)<br />Quests: 0 (0%)<br />Other:
+      Spiral Abyss: 600 (35%)<br />Daily Activity: 420 (24%)<br />Events: 400
+      (22%)<br />Mail: 320 (18%)<br />Adventure: 20 (1%)<br />Quests: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
