@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jan 09, 2023 00:24 +0800</u> (🤖automated)
+  🕒 Updated at <u>Jan 10, 2023 00:32 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>9</td>
+    <td>10</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>829</td>
+    <td>830</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -314,6 +314,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
@@ -324,16 +329,11 @@
         height="18"
       />
       Xingqiu (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Zhongli (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sara.png"
-        ,
-        height="18"
-      />
-      Kujou Sara (12)<br />
+      Kaedehara Kazuha (12)<br />
     </td>
   </tr>
   <tr>
@@ -396,17 +396,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1820 (-83%)</td>
+    <td>1960 (-82%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1741343 (-80%)</td>
+    <td>1910591 (-79%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (33%)<br />Daily Activity: 480 (27%)<br />Events: 400
-      (22%)<br />Mail: 320 (17%)<br />Adventure: 20 (1%)<br />Quests: 0 (0%)<br />Other:
+      Spiral Abyss: 600 (31%)<br />Daily Activity: 540 (28%)<br />Events: 480
+      (24%)<br />Mail: 320 (16%)<br />Adventure: 20 (1%)<br />Quests: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
@@ -1688,7 +1688,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>7</td>
+            <td>8</td>
           </tr>
           <tr>
             <td>Constellation</td>
