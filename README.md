@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jan 13, 2023 00:41 +0800</u> (🤖automated)
+  🕒 Updated at <u>Jan 14, 2023 00:30 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>13</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>2 x Adventurer's Experience</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>833</td>
+    <td>834</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -329,11 +329,11 @@
         height="18"
       />
       Xingqiu (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sara.png"
         ,
         height="18"
       />
-      Raiden Shogun (12)<br />
+      Kujou Sara (12)<br />
     </td>
   </tr>
   <tr>
@@ -396,17 +396,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2120 (-80%)</td>
+    <td>2180 (-80%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2076163 (-77%)</td>
+    <td>2132685 (-76%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 640 (31%)<br />Spiral Abyss: 600 (29%)<br />Events: 480
-      (23%)<br />Mail: 380 (17%)<br />Adventure: 20 (0%)<br />Quests: 0 (0%)<br />Other:
+      Daily Activity: 660 (31%)<br />Spiral Abyss: 600 (28%)<br />Events: 480
+      (22%)<br />Mail: 420 (19%)<br />Adventure: 20 (0%)<br />Quests: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
@@ -4583,7 +4583,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>8</td>
+            <td>9</td>
           </tr>
           <tr>
             <td>Constellation</td>
