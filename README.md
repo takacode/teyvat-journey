@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jan 15, 2023 00:23 +0800</u> (🤖automated)
+  🕒 Updated at <u>Jan 16, 2023 00:23 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>15</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Adventurer's Experience</td>
+    <td>5 x Fine Enhancement Ore</td>
   </tr>
 </table>
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>834</td>
+    <td>836</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -277,7 +277,7 @@
   </tr>
   <tr>
     <td>Comfort</td>
-    <td>Fit for a King (26010)</td>
+    <td>Fit for a King (25710)</td>
   </tr>
   <tr>
     <td>Items</td>
@@ -319,16 +319,16 @@
         height="18"
       />
       Hu Tao (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
       Xingqiu (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
@@ -396,17 +396,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2180 (-80%)</td>
+    <td>2240 (-79%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2132685 (-76%)</td>
+    <td>2216583 (-75%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 660 (31%)<br />Spiral Abyss: 600 (28%)<br />Events: 480
-      (22%)<br />Mail: 420 (19%)<br />Adventure: 20 (0%)<br />Quests: 0 (0%)<br />Other:
+      Daily Activity: 720 (33%)<br />Spiral Abyss: 600 (27%)<br />Events: 480
+      (22%)<br />Mail: 420 (18%)<br />Adventure: 20 (0%)<br />Quests: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
