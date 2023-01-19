@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jan 19, 2023 00:26 +0800</u> (🤖automated)
+  🕒 Updated at <u>Jan 20, 2023 00:26 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>19</td>
+    <td>20</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primogem</td>
+    <td>10000 x Mora</td>
   </tr>
 </table>
 
@@ -20,15 +20,15 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>834</td>
+    <td>845</td>
   </tr>
   <tr>
     <td>Days active</td>
-    <td>839</td>
+    <td>840</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>61</td>
+    <td>63</td>
   </tr>
   <tr>
     <td>Waypoints unlocked</td>
@@ -52,15 +52,15 @@
   </tr>
   <tr>
     <td>Common chests opened</td>
-    <td>2319</td>
+    <td>2324</td>
   </tr>
   <tr>
     <td>Exquisite chests opened</td>
-    <td>1508</td>
+    <td>1513</td>
   </tr>
   <tr>
     <td>Precious chests opened</td>
-    <td>450</td>
+    <td>452</td>
   </tr>
   <tr>
     <td>Luxurious chests opened</td>
@@ -160,7 +160,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/69/" width="80" />
+            <img src="https://progress-bar.dev/72/" width="80" />
           </td>
         </tr>
         <tr>
@@ -277,11 +277,11 @@
   </tr>
   <tr>
     <td>Comfort</td>
-    <td>Fit for a King (25710)</td>
+    <td>Fit for a King (25980)</td>
   </tr>
   <tr>
     <td>Items</td>
-    <td>4103</td>
+    <td>4105</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -396,18 +396,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2431 (-77%)</td>
+    <td>3837 (-65%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2371509 (-74%)</td>
+    <td>3602742 (-60%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 840 (35%)<br />Spiral Abyss: 600 (25%)<br />Events: 480
-      (20%)<br />Mail: 480 (19%)<br />Adventure: 30 (1%)<br />Other: 1 (0%)<br />Quests:
-      0 (0%)<br />
+      Mail: 1120 (30%)<br />Daily Activity: 900 (24%)<br />Events: 750 (20%)<br />Spiral
+      Abyss: 600 (15%)<br />Quests: 280 (7%)<br />Adventure: 147 (3%)<br />Other:
+      40 (1%)<br />
     </td>
   </tr>
 </table>
@@ -489,6 +489,88 @@
           <tr>
             <td>Refinement</td>
             <td>5</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary><b>Alhaitham</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Alhaitham</h3></th>
+      <th><h3 align="center">Primordial Jade Cutter</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Alhatham.png"
+            width="180"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Morax.png"
+            width="180"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>Dendro</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>50</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Artifacts</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td>Primordial Jade Cutter</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>90</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>3</td>
           </tr>
         </table>
       </td>
@@ -1688,7 +1770,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>8</td>
+            <td>9</td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -2366,7 +2448,7 @@
           </tr>
           <tr>
             <td>Outfits</td>
-            <td></td>
+            <td>Springbloom Missive</td>
           </tr>
         </table>
       </td>
@@ -2809,7 +2891,7 @@
   <table>
     <tr>
       <th><h3 align="center">Layla</h3></th>
-      <th><h3 align="center">Primordial Jade Cutter</h3></th>
+      <th><h3 align="center">Dull Blade</h3></th>
     </tr>
     <tr>
       <td>
@@ -2823,7 +2905,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Morax.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Blunt.png"
             width="180"
           />
         </p>
@@ -2869,19 +2951,19 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Primordial Jade Cutter</td>
+            <td>Dull Blade</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>1</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>90</td>
+            <td>1</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>3</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
@@ -3883,7 +3965,7 @@
   <table>
     <tr>
       <th><h3 align="center">Shenhe</h3></th>
-      <th><h3 align="center">Primordial Jade Winged-Spear</h3></th>
+      <th><h3 align="center">Missive Windspear</h3></th>
     </tr>
     <tr>
       <td>
@@ -3897,7 +3979,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Morax.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Windvane.png"
             width="180"
           />
         </p>
@@ -3944,11 +4026,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Primordial Jade Winged-Spear</td>
+            <td>Missive Windspear</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -5119,6 +5201,88 @@
   </table>
 </details>
 <details>
+  <summary><b>Yaoyao</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Yaoyao</h3></th>
+      <th><h3 align="center">Beginner's Protector</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
+            width="180"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gewalt.png"
+            width="180"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>Dendro</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>70</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Artifacts</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td>Beginner's Protector</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Yelan</b></summary>
   <br />
   <table>
@@ -5377,7 +5541,7 @@
   <table>
     <tr>
       <th><h3 align="center">Zhongli</h3></th>
-      <th><h3 align="center">Missive Windspear</h3></th>
+      <th><h3 align="center">Primordial Jade Winged-Spear</h3></th>
     </tr>
     <tr>
       <td>
@@ -5391,7 +5555,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Windvane.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Morax.png"
             width="180"
           />
         </p>
@@ -5437,11 +5601,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Missive Windspear</td>
+            <td>Primordial Jade Winged-Spear</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Level</td>
