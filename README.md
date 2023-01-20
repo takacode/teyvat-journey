@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jan 20, 2023 00:26 +0800</u> (🤖automated)
+  🕒 Updated at <u>Jan 21, 2023 00:26 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>20</td>
+    <td>21</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>10000 x Mora</td>
+    <td>20 x Primogem</td>
   </tr>
 </table>
 
@@ -20,11 +20,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>845</td>
+    <td>850</td>
   </tr>
   <tr>
     <td>Days active</td>
-    <td>840</td>
+    <td>841</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td>Dendroculi</td>
-    <td>180</td>
+    <td>235</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -52,23 +52,23 @@
   </tr>
   <tr>
     <td>Common chests opened</td>
-    <td>2324</td>
+    <td>2350</td>
   </tr>
   <tr>
     <td>Exquisite chests opened</td>
-    <td>1513</td>
+    <td>1520</td>
   </tr>
   <tr>
     <td>Precious chests opened</td>
-    <td>452</td>
+    <td>455</td>
   </tr>
   <tr>
     <td>Luxurious chests opened</td>
-    <td>174</td>
+    <td>175</td>
   </tr>
   <tr>
     <td>Remarkable chests opened</td>
-    <td>115</td>
+    <td>120</td>
   </tr>
   <tr>
     <td>Domains unlocked</td>
@@ -160,7 +160,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/72/" width="80" />
+            <img src="https://progress-bar.dev/78/" width="80" />
           </td>
         </tr>
         <tr>
@@ -292,59 +292,59 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>61</td>
+    <td>62</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>24</td>
+    <td>31</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>15</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td>12-3</td>
+    <td>12-2</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>36</td>
+    <td>33</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (17)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Alhatham.png"
+        ,
+        height="18"
+      />
+      Alhaitham (17)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
       Xingqiu (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Zhongli (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (12)<br />
+      Nahida (14)<br />
     </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Alhatham.png"
         ,
         height="18"
       />
-      Raiden Shogun (63)<br />
+      Alhaitham (50)<br />
     </td>
   </tr>
   <tr>
@@ -355,40 +355,40 @@
         ,
         height="18"
       />
-      Raiden Shogun (291118)<br />
+      Raiden Shogun (301201)<br />
     </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Alhatham.png"
         ,
         height="18"
       />
-      Raiden Shogun (75138)<br />
+      Alhaitham (184542)<br />
     </td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Xingqiu (31)<br />
+      Yelan (55)<br />
     </td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Xingqiu (62)<br />
+      Yelan (124)<br />
     </td>
   </tr>
 </table>
@@ -396,18 +396,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3837 (-65%)</td>
+    <td>4429 (-59%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3602742 (-60%)</td>
+    <td>4867776 (-46%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1120 (30%)<br />Daily Activity: 900 (24%)<br />Events: 750 (20%)<br />Spiral
-      Abyss: 600 (15%)<br />Quests: 280 (7%)<br />Adventure: 147 (3%)<br />Other:
-      40 (1%)<br />
+      Mail: 1120 (26%)<br />Daily Activity: 960 (22%)<br />Events: 770 (18%)<br />Spiral
+      Abyss: 600 (13%)<br />Adventure: 514 (11%)<br />Quests: 420 (9%)<br />Other:
+      45 (1%)<br />
     </td>
   </tr>
 </table>
@@ -534,11 +534,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>50</td>
+            <td>90</td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>1</td>
+            <td>2</td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -546,7 +546,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td></td>
+            <td>4 x Gilded Dreams<br />1 x Deepwood Memories<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -1368,7 +1368,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>4 x Thundering Fury<br />1 x Shimenawa's Reminiscence<br /></td>
+            <td>4 x Thundering Fury<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2233,7 +2233,7 @@
   <table>
     <tr>
       <th><h3 align="center">Kaedehara Kazuha</h3></th>
-      <th><h3 align="center">Freedom-Sworn</h3></th>
+      <th><h3 align="center">Toukabou Shigure</h3></th>
     </tr>
     <tr>
       <td>
@@ -2247,7 +2247,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Widsith.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Kasabouzu.png"
             width="180"
           />
         </p>
@@ -2290,11 +2290,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Freedom-Sworn</td>
+            <td>Toukabou Shigure</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2302,7 +2302,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
@@ -2772,7 +2772,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>4 x Emblem of Severed Fate<br />1 x Ocean-Hued Clam<br /></td>
+            <td>2 x Emblem of Severed Fate<br />1 x Ocean-Hued Clam<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2809,7 +2809,7 @@
   <table>
     <tr>
       <th><h3 align="center">Kuki Shinobu</h3></th>
-      <th><h3 align="center">Toukabou Shigure</h3></th>
+      <th><h3 align="center">Freedom-Sworn</h3></th>
     </tr>
     <tr>
       <td>
@@ -2823,7 +2823,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Kasabouzu.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Widsith.png"
             width="180"
           />
         </p>
@@ -2854,7 +2854,10 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td></td>
+            <td>
+              2 x Tenacity of the Millelith<br />2 x Emblem of Severed Fate<br />1
+              x Shimenawa's Reminiscence<br />
+            </td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2866,11 +2869,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Toukabou Shigure</td>
+            <td>Freedom-Sworn</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2878,7 +2881,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>5</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
@@ -2928,7 +2931,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>9</td>
+            <td>10</td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -3185,7 +3188,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>4 x Gilded Dreams<br />1 x Deepwood Memories<br /></td>
+            <td>4 x Deepwood Memories<br />1 x Viridescent Venerer<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -3267,7 +3270,9 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>5 x Tenacity of the Millelith<br /></td>
+            <td>
+              2 x Flower of Paradise Lost<br />3 x Tenacity of the Millelith<br />
+            </td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -5239,7 +5244,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>70</td>
+            <td>90</td>
           </tr>
           <tr>
             <td>Friendship</td>
