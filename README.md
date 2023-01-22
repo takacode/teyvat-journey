@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jan 22, 2023 00:24 +0800</u> (🤖automated)
+  🕒 Updated at <u>Jan 23, 2023 00:23 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>22</td>
+    <td>23</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Hero's Wit</td>
+    <td>20 x Primogem</td>
   </tr>
 </table>
 
@@ -396,17 +396,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5139 (-53%)</td>
+    <td>5199 (-52%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5215776 (-43%)</td>
+    <td>5284821 (-42%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 1200 (24%)<br />Mail: 1140 (23%)<br />Daily Activity: 960
-      (19%)<br />Events: 860 (16%)<br />Adventure: 514 (10%)<br />Quests: 420
+      Spiral Abyss: 1200 (24%)<br />Mail: 1140 (22%)<br />Daily Activity: 1020
+      (20%)<br />Events: 860 (17%)<br />Adventure: 514 (9%)<br />Quests: 420
       (8%)<br />Other: 45 (0%)<br />
     </td>
   </tr>
@@ -538,7 +538,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>2</td>
+            <td>3</td>
           </tr>
           <tr>
             <td>Constellation</td>
