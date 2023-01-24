@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jan 24, 2023 00:26 +0800</u> (🤖automated)
+  🕒 Updated at <u>Jan 25, 2023 00:25 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>24</td>
+    <td>25</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fine Enhancement Ore</td>
+    <td>3 x Hero's Wit</td>
   </tr>
 </table>
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>843</td>
+    <td>844</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -314,16 +314,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (17)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Alhatham.png"
         ,
         height="18"
       />
       Alhaitham (17)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (17)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
@@ -396,17 +396,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5259 (-52%)</td>
+    <td>5399 (-51%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5344821 (-41%)</td>
+    <td>5471132 (-40%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 1200 (23%)<br />Mail: 1140 (22%)<br />Daily Activity: 1020
-      (20%)<br />Events: 920 (18%)<br />Adventure: 514 (10%)<br />Quests: 420
+      Spiral Abyss: 1200 (23%)<br />Mail: 1160 (22%)<br />Daily Activity: 1140
+      (22%)<br />Events: 920 (17%)<br />Adventure: 514 (9%)<br />Quests: 420
       (7%)<br />Other: 45 (0%)<br />
     </td>
   </tr>
@@ -4670,7 +4670,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>9</td>
+            <td>10</td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -5248,7 +5248,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>1</td>
+            <td>2</td>
           </tr>
           <tr>
             <td>Constellation</td>
