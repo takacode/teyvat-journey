@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jan 26, 2023 00:25 +0800</u> (🤖automated)
+  🕒 Updated at <u>Jan 27, 2023 00:24 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>26</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Almond Tofu</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -20,11 +20,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>850</td>
+    <td>851</td>
   </tr>
   <tr>
     <td>Days active</td>
-    <td>845</td>
+    <td>846</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -52,15 +52,15 @@
   </tr>
   <tr>
     <td>Common chests opened</td>
-    <td>2350</td>
+    <td>2351</td>
   </tr>
   <tr>
     <td>Exquisite chests opened</td>
-    <td>1520</td>
+    <td>1521</td>
   </tr>
   <tr>
     <td>Precious chests opened</td>
-    <td>455</td>
+    <td>456</td>
   </tr>
   <tr>
     <td>Luxurious chests opened</td>
@@ -396,18 +396,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5499 (-50%)</td>
+    <td>5696 (-48%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5603352 (-38%)</td>
+    <td>5812490 (-36%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 1200 (22%)<br />Mail: 1160 (22%)<br />Daily Activity: 1140
-      (21%)<br />Events: 980 (18%)<br />Adventure: 514 (9%)<br />Quests: 420
-      (7%)<br />Other: 85 (1%)<br />
+      Daily Activity: 1260 (23%)<br />Spiral Abyss: 1200 (22%)<br />Mail: 1160
+      (20%)<br />Events: 980 (17%)<br />Adventure: 531 (9%)<br />Quests: 480
+      (8%)<br />Other: 85 (1%)<br />
     </td>
   </tr>
 </table>
@@ -538,7 +538,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>3</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -5248,7 +5248,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>2</td>
+            <td>3</td>
           </tr>
           <tr>
             <td>Constellation</td>
