@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jan 27, 2023 00:24 +0800</u> (🤖automated)
+  🕒 Updated at <u>Jan 28, 2023 00:24 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>27</td>
+    <td>28</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>3 x Hero's Wit</td>
   </tr>
 </table>
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>846</td>
+    <td>847</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -281,7 +281,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>4105</td>
+    <td>4107</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -314,16 +314,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (17)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Alhatham.png"
         ,
         height="18"
       />
       Alhaitham (17)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (17)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
@@ -396,17 +396,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5696 (-48%)</td>
+    <td>5886 (-46%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5812490 (-36%)</td>
+    <td>6020843 (-34%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1260 (23%)<br />Spiral Abyss: 1200 (22%)<br />Mail: 1160
-      (20%)<br />Events: 980 (17%)<br />Adventure: 531 (9%)<br />Quests: 480
+      Daily Activity: 1300 (23%)<br />Spiral Abyss: 1200 (21%)<br />Mail: 1160
+      (19%)<br />Events: 1130 (19%)<br />Adventure: 531 (9%)<br />Quests: 480
       (8%)<br />Other: 85 (1%)<br />
     </td>
   </tr>
@@ -2546,7 +2546,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>82</td>
+            <td>83</td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -4305,7 +4305,7 @@
   <table>
     <tr>
       <th><h3 align="center">Thoma</h3></th>
-      <th><h3 align="center">Black Tassel</h3></th>
+      <th><h3 align="center">Beginner's Protector</h3></th>
     </tr>
     <tr>
       <td>
@@ -4319,7 +4319,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Noire.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gewalt.png"
             width="180"
           />
         </p>
@@ -4362,19 +4362,19 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Black Tassel</td>
+            <td>Beginner's Protector</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>3</td>
+            <td>1</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>80</td>
+            <td>1</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>5</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
@@ -5211,7 +5211,7 @@
   <table>
     <tr>
       <th><h3 align="center">Yaoyao</h3></th>
-      <th><h3 align="center">Beginner's Protector</h3></th>
+      <th><h3 align="center">Black Tassel</h3></th>
     </tr>
     <tr>
       <td>
@@ -5225,7 +5225,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gewalt.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Noire.png"
             width="180"
           />
         </p>
@@ -5252,7 +5252,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>0</td>
+            <td>1</td>
           </tr>
           <tr>
             <td>Artifacts</td>
@@ -5268,19 +5268,19 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Beginner's Protector</td>
+            <td>Black Tassel</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>1</td>
+            <td>3</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>1</td>
+            <td>80</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
