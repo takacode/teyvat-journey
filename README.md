@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jan 28, 2023 00:24 +0800</u> (🤖automated)
+  🕒 Updated at <u>Jan 29, 2023 00:23 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>28</td>
+    <td>29</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Hero's Wit</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>847</td>
+    <td>848</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td>Waypoints unlocked</td>
-    <td>244</td>
+    <td>266</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -285,7 +285,7 @@
   </tr>
   <tr>
     <td>Visitors</td>
-    <td>81</td>
+    <td>82</td>
   </tr>
 </table>
 <h2>Spiral Abyss</h2>
@@ -396,18 +396,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5886 (-46%)</td>
+    <td>6246 (-43%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>6020843 (-34%)</td>
+    <td>7022391 (-23%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1300 (23%)<br />Spiral Abyss: 1200 (21%)<br />Mail: 1160
-      (19%)<br />Events: 1130 (19%)<br />Adventure: 531 (9%)<br />Quests: 480
-      (8%)<br />Other: 85 (1%)<br />
+      Events: 1430 (23%)<br />Daily Activity: 1360 (22%)<br />Spiral Abyss: 1200
+      (20%)<br />Mail: 1160 (19%)<br />Adventure: 531 (8%)<br />Quests: 480
+      (7%)<br />Other: 85 (1%)<br />
     </td>
   </tr>
 </table>
