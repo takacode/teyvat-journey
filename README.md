@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jan 29, 2023 00:23 +0800</u> (🤖automated)
+  🕒 Updated at <u>Jan 30, 2023 00:23 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>29</td>
+    <td>30</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>848</td>
+    <td>849</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -314,16 +314,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Alhatham.png"
-        ,
-        height="18"
-      />
-      Alhaitham (17)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
       Yelan (17)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Alhatham.png"
+        ,
+        height="18"
+      />
+      Alhaitham (17)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
@@ -396,17 +396,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6246 (-43%)</td>
+    <td>6286 (-43%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>7022391 (-23%)</td>
+    <td>7094535 (-22%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1430 (23%)<br />Daily Activity: 1360 (22%)<br />Spiral Abyss: 1200
-      (20%)<br />Mail: 1160 (19%)<br />Adventure: 531 (8%)<br />Quests: 480
+      Events: 1430 (23%)<br />Daily Activity: 1400 (23%)<br />Spiral Abyss: 1200
+      (20%)<br />Mail: 1160 (18%)<br />Adventure: 531 (8%)<br />Quests: 480
       (7%)<br />Other: 85 (1%)<br />
     </td>
   </tr>
@@ -1770,7 +1770,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>9</td>
+            <td>10</td>
           </tr>
           <tr>
             <td>Constellation</td>
