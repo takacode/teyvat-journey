@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jan 31, 2023 00:25 +0800</u> (🤖automated)
+  🕒 Updated at <u>Feb 01, 2023 00:25 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>31</td>
+    <td>1</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>850</td>
+    <td>851</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td>Waypoints unlocked</td>
-    <td>266</td>
+    <td>295</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -72,7 +72,7 @@
   </tr>
   <tr>
     <td>Domains unlocked</td>
-    <td>42</td>
+    <td>48</td>
   </tr>
 </table>
 
@@ -314,16 +314,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Alhatham.png"
-        ,
-        height="18"
-      />
-      Alhaitham (17)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
       Yelan (17)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Alhatham.png"
+        ,
+        height="18"
+      />
+      Alhaitham (17)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
@@ -396,18 +396,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6416 (-41%)</td>
+    <td>6721 (-39%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>7311171 (-20%)</td>
+    <td>7472982 (-18%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1460 (23%)<br />Events: 1430 (23%)<br />Mail: 1230
-      (20%)<br />Spiral Abyss: 1200 (18%)<br />Adventure: 531 (8%)<br />Quests:
-      480 (7%)<br />Other: 85 (1%)<br />
+      Daily Activity: 1520 (23%)<br />Events: 1510 (23%)<br />Mail: 1280
+      (20%)<br />Spiral Abyss: 1200 (17%)<br />Adventure: 626 (9%)<br />Quests:
+      480 (7%)<br />Other: 105 (1%)<br />
     </td>
   </tr>
 </table>
@@ -1368,7 +1368,10 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>4 x Thundering Fury<br /></td>
+            <td>
+              1 x Thundering Fury<br />1 x Archaic Petra<br />1 x Noblesse
+              Oblige<br />1 x Crimson Witch of Flames<br />
+            </td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -1817,7 +1820,7 @@
   <table>
     <tr>
       <th><h3 align="center">Fischl</h3></th>
-      <th><h3 align="center">The Stringless</h3></th>
+      <th><h3 align="center">Skyward Harp</h3></th>
     </tr>
     <tr>
       <td>
@@ -1831,7 +1834,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Troupe.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Dvalin.png"
             width="180"
           />
         </p>
@@ -1862,11 +1865,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>
-              1 x Thundering Fury<br />1 x Archaic Petra<br />1 x Noblesse
-              Oblige<br />1 x Gladiator's Finale<br />1 x Crimson Witch of
-              Flames<br />
-            </td>
+            <td>4 x Thundering Fury<br />1 x Ocean-Hued Clam<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -1878,11 +1877,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>The Stringless</td>
+            <td>Skyward Harp</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2772,7 +2771,9 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>2 x Emblem of Severed Fate<br />1 x Ocean-Hued Clam<br /></td>
+            <td>
+              2 x Emblem of Severed Fate<br />1 x Gladiator's Finale<br />
+            </td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -4551,7 +4552,7 @@
   <table>
     <tr>
       <th><h3 align="center">Venti</h3></th>
-      <th><h3 align="center">Skyward Harp</h3></th>
+      <th><h3 align="center">The Stringless</h3></th>
     </tr>
     <tr>
       <td>
@@ -4565,7 +4566,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Dvalin.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Troupe.png"
             width="180"
           />
         </p>
@@ -4608,11 +4609,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Skyward Harp</td>
+            <td>The Stringless</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Level</td>
