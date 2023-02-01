@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Feb 01, 2023 00:25 +0800</u> (🤖automated)
+  🕒 Updated at <u>Feb 02, 2023 00:25 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>1</td>
+    <td>2</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>3 x Fine Enhancement Ore</td>
   </tr>
 </table>
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>851</td>
+    <td>852</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -292,15 +292,15 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>62</td>
+    <td>63</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>42</td>
+    <td>36</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>17</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Max Floor</td>
@@ -314,37 +314,37 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Yelan (17)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Alhatham.png"
-        ,
-        height="18"
-      />
-      Alhaitham (17)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (15)<br /><img
+      Raiden Shogun (14)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Nahida (14)<br />
+      Nahida (14)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Alhatham.png"
+        ,
+        height="18"
+      />
+      Alhaitham (14)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (14)<br />
     </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Alhatham.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Alhaitham (50)<br />
+      Raiden Shogun (59)<br />
     </td>
   </tr>
   <tr>
@@ -355,7 +355,7 @@
         ,
         height="18"
       />
-      Raiden Shogun (301201)<br />
+      Raiden Shogun (292653)<br />
     </td>
   </tr>
   <tr>
@@ -366,18 +366,18 @@
         ,
         height="18"
       />
-      Alhaitham (184542)<br />
+      Alhaitham (306572)<br />
     </td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Yelan (55)<br />
+      Raiden Shogun (39)<br />
     </td>
   </tr>
   <tr>
@@ -388,7 +388,7 @@
         ,
         height="18"
       />
-      Yelan (124)<br />
+      Yelan (79)<br />
     </td>
   </tr>
 </table>
@@ -396,18 +396,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6721 (-39%)</td>
+    <td>600 (-91%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>7472982 (-18%)</td>
+    <td>585000 (-92%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1520 (23%)<br />Events: 1510 (23%)<br />Mail: 1280
-      (20%)<br />Spiral Abyss: 1200 (17%)<br />Adventure: 626 (9%)<br />Quests:
-      480 (7%)<br />Other: 105 (1%)<br />
+      Spiral Abyss: 600 (100%)<br />Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests:
+      0 (0%)<br />Daily Activity: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
 </table>
@@ -993,7 +992,7 @@
   <table>
     <tr>
       <th><h3 align="center">Bennett</h3></th>
-      <th><h3 align="center">Festering Desire</h3></th>
+      <th><h3 align="center">Mistsplitter Reforged</h3></th>
     </tr>
     <tr>
       <td>
@@ -1007,7 +1006,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Magnum.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Narukami.png"
             width="180"
           />
         </p>
@@ -1050,11 +1049,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Festering Desire</td>
+            <td>Mistsplitter Reforged</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1062,7 +1061,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>5</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
@@ -2232,7 +2231,7 @@
   <table>
     <tr>
       <th><h3 align="center">Kaedehara Kazuha</h3></th>
-      <th><h3 align="center">Toukabou Shigure</h3></th>
+      <th><h3 align="center">Freedom-Sworn</h3></th>
     </tr>
     <tr>
       <td>
@@ -2246,7 +2245,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Kasabouzu.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Widsith.png"
             width="180"
           />
         </p>
@@ -2289,11 +2288,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Toukabou Shigure</td>
+            <td>Freedom-Sworn</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2301,7 +2300,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>5</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
@@ -2398,7 +2397,7 @@
   <table>
     <tr>
       <th><h3 align="center">Kamisato Ayaka</h3></th>
-      <th><h3 align="center">Mistsplitter Reforged</h3></th>
+      <th><h3 align="center">Festering Desire</h3></th>
     </tr>
     <tr>
       <td>
@@ -2412,7 +2411,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Narukami.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Magnum.png"
             width="180"
           />
         </p>
@@ -2455,11 +2454,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Mistsplitter Reforged</td>
+            <td>Festering Desire</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2467,7 +2466,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
@@ -2810,7 +2809,7 @@
   <table>
     <tr>
       <th><h3 align="center">Kuki Shinobu</h3></th>
-      <th><h3 align="center">Freedom-Sworn</h3></th>
+      <th><h3 align="center">Toukabou Shigure</h3></th>
     </tr>
     <tr>
       <td>
@@ -2824,7 +2823,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Widsith.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Kasabouzu.png"
             width="180"
           />
         </p>
@@ -2870,11 +2869,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Freedom-Sworn</td>
+            <td>Toukabou Shigure</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2882,7 +2881,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
