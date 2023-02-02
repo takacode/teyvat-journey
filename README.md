@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Feb 02, 2023 00:25 +0800</u> (🤖automated)
+  🕒 Updated at <u>Feb 03, 2023 00:26 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>2</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -20,11 +20,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>851</td>
+    <td>852</td>
   </tr>
   <tr>
     <td>Days active</td>
-    <td>852</td>
+    <td>853</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td>Waypoints unlocked</td>
-    <td>295</td>
+    <td>286</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -314,26 +314,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Raiden Shogun (14)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (14)<br /><img
+      Yelan (14)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Alhatham.png"
         ,
         height="18"
       />
       Alhaitham (14)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Yelan (14)<br />
+      Nahida (14)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (14)<br />
     </td>
   </tr>
   <tr>
@@ -396,17 +396,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>600 (-91%)</td>
+    <td>836 (-87%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>585000 (-92%)</td>
+    <td>803600 (-89%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (100%)<br />Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests:
-      0 (0%)<br />Daily Activity: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
+      Spiral Abyss: 600 (72%)<br />Daily Activity: 120 (15%)<br />Events: 80
+      (10%)<br />Mail: 30 (3%)<br />Adventure: 5 (0%)<br />Other: 1 (0%)<br />Quests:
+      0 (0%)<br />
     </td>
   </tr>
 </table>
@@ -537,7 +538,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>5</td>
+            <td>6</td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -1819,7 +1820,7 @@
   <table>
     <tr>
       <th><h3 align="center">Fischl</h3></th>
-      <th><h3 align="center">Skyward Harp</h3></th>
+      <th><h3 align="center">The Stringless</h3></th>
     </tr>
     <tr>
       <td>
@@ -1833,7 +1834,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Dvalin.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Troupe.png"
             width="180"
           />
         </p>
@@ -1876,11 +1877,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Skyward Harp</td>
+            <td>The Stringless</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -4551,7 +4552,7 @@
   <table>
     <tr>
       <th><h3 align="center">Venti</h3></th>
-      <th><h3 align="center">The Stringless</h3></th>
+      <th><h3 align="center">Skyward Harp</h3></th>
     </tr>
     <tr>
       <td>
@@ -4565,7 +4566,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Troupe.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Dvalin.png"
             width="180"
           />
         </p>
@@ -4608,11 +4609,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>The Stringless</td>
+            <td>Skyward Harp</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -5248,11 +5249,11 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>3</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>1</td>
+            <td>2</td>
           </tr>
           <tr>
             <td>Artifacts</td>
