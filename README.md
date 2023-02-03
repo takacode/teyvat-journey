@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Feb 03, 2023 00:26 +0800</u> (🤖automated)
+  🕒 Updated at <u>Feb 04, 2023 00:25 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>3</td>
+    <td>4</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>20 x Primogem</td>
   </tr>
 </table>
 
@@ -20,11 +20,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>852</td>
+    <td>854</td>
   </tr>
   <tr>
     <td>Days active</td>
-    <td>853</td>
+    <td>854</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td>Exquisite chests opened</td>
-    <td>1521</td>
+    <td>1522</td>
   </tr>
   <tr>
     <td>Precious chests opened</td>
@@ -281,7 +281,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>4107</td>
+    <td>4108</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -314,26 +314,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (14)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Alhatham.png"
         ,
         height="18"
       />
       Alhaitham (14)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (14)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Raiden Shogun (14)<br />
+      Raiden Shogun (14)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (14)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (14)<br />
     </td>
   </tr>
   <tr>
@@ -396,17 +396,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>836 (-87%)</td>
+    <td>1061 (-84%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>803600 (-89%)</td>
+    <td>1167406 (-84%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (72%)<br />Daily Activity: 120 (15%)<br />Events: 80
-      (10%)<br />Mail: 30 (3%)<br />Adventure: 5 (0%)<br />Other: 1 (0%)<br />Quests:
+      Spiral Abyss: 600 (57%)<br />Events: 240 (23%)<br />Daily Activity: 180
+      (17%)<br />Mail: 30 (3%)<br />Adventure: 10 (0%)<br />Other: 1 (0%)<br />Quests:
       0 (0%)<br />
     </td>
   </tr>
