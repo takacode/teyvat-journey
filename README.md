@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Feb 04, 2023 00:25 +0800</u> (🤖automated)
+  🕒 Updated at <u>Feb 05, 2023 00:23 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>4</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primogem</td>
+    <td>3 x Sweet Madame</td>
   </tr>
 </table>
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>854</td>
+    <td>855</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -314,16 +314,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Alhatham.png"
-        ,
-        height="18"
-      />
-      Alhaitham (14)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (14)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
@@ -333,7 +323,17 @@
         ,
         height="18"
       />
-      Nahida (14)<br />
+      Nahida (14)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Alhatham.png"
+        ,
+        height="18"
+      />
+      Alhaitham (14)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (14)<br />
     </td>
   </tr>
   <tr>
@@ -396,17 +396,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1061 (-84%)</td>
+    <td>1181 (-82%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1167406 (-84%)</td>
+    <td>1308666 (-82%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (57%)<br />Events: 240 (23%)<br />Daily Activity: 180
-      (17%)<br />Mail: 30 (3%)<br />Adventure: 10 (0%)<br />Other: 1 (0%)<br />Quests:
+      Spiral Abyss: 600 (51%)<br />Events: 320 (28%)<br />Daily Activity: 220
+      (19%)<br />Mail: 30 (2%)<br />Adventure: 10 (0%)<br />Other: 1 (0%)<br />Quests:
       0 (0%)<br />
     </td>
   </tr>
@@ -546,7 +546,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>4 x Gilded Dreams<br />1 x Deepwood Memories<br /></td>
+            <td>3 x Gilded Dreams<br />2 x Deepwood Memories<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -1120,7 +1120,10 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>4 x Gladiator's Finale<br />1 x Echoes of an Offering<br /></td>
+            <td>
+              3 x Gladiator's Finale<br />1 x Thundering Fury<br />1 x Echoes of
+              an Offering<br />
+            </td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -1323,7 +1326,7 @@
   <table>
     <tr>
       <th><h3 align="center">Cyno</h3></th>
-      <th><h3 align="center">Favonius Lance</h3></th>
+      <th><h3 align="center">Primordial Jade Winged-Spear</h3></th>
     </tr>
     <tr>
       <td>
@@ -1337,7 +1340,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Morax.png"
             width="180"
           />
         </p>
@@ -1383,19 +1386,19 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Favonius Lance</td>
+            <td>Primordial Jade Winged-Spear</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>90</td>
+            <td>1</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>5</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
@@ -1865,7 +1868,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>4 x Thundering Fury<br />1 x Ocean-Hued Clam<br /></td>
+            <td>1 x Thundering Fury<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2029,7 +2032,9 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>5 x Husk of Opulent Dreams<br /></td>
+            <td>
+              1 x Emblem of Severed Fate<br />4 x Husk of Opulent Dreams<br />
+            </td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2525,7 +2530,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>4 x Heart of Depth<br /></td>
+            <td>4 x Heart of Depth<br />1 x Gladiator's Finale<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2545,7 +2550,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>83</td>
+            <td>90</td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -2772,7 +2777,7 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              2 x Emblem of Severed Fate<br />1 x Gladiator's Finale<br />
+              2 x Emblem of Severed Fate<br />1 x Viridescent Venerer<br />
             </td>
           </tr>
           <tr>
@@ -2895,7 +2900,7 @@
   <table>
     <tr>
       <th><h3 align="center">Layla</h3></th>
-      <th><h3 align="center">Dull Blade</h3></th>
+      <th><h3 align="center">Key of Khaj-Nisut</h3></th>
     </tr>
     <tr>
       <td>
@@ -2909,7 +2914,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Blunt.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Deshret.png"
             width="180"
           />
         </p>
@@ -2955,15 +2960,15 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Dull Blade</td>
+            <td>Key of Khaj-Nisut</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>1</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>1</td>
+            <td>90</td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -2980,7 +2985,7 @@
   <table>
     <tr>
       <th><h3 align="center">Lisa</h3></th>
-      <th><h3 align="center">Favonius Codex</h3></th>
+      <th><h3 align="center">Kagura's Verity</h3></th>
     </tr>
     <tr>
       <td>
@@ -2994,7 +2999,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Zephyrus.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Narukami.png"
             width="180"
           />
         </p>
@@ -3025,11 +3030,14 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>1 x Gladiator's Finale<br /></td>
+            <td>
+              2 x Thundering Fury<br />2 x Gladiator's Finale<br />1 x
+              Ocean-Hued Clam<br />
+            </td>
           </tr>
           <tr>
             <td>Outfits</td>
-            <td></td>
+            <td>A Sobriquet Under Shade</td>
           </tr>
         </table>
       </td>
@@ -3037,11 +3045,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Favonius Codex</td>
+            <td>Kagura's Verity</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3049,7 +3057,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>5</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
@@ -3062,7 +3070,7 @@
   <table>
     <tr>
       <th><h3 align="center">Mona</h3></th>
-      <th><h3 align="center">Kagura's Verity</h3></th>
+      <th><h3 align="center">Favonius Codex</h3></th>
     </tr>
     <tr>
       <td>
@@ -3076,7 +3084,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Narukami.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Zephyrus.png"
             width="180"
           />
         </p>
@@ -3119,11 +3127,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Kagura's Verity</td>
+            <td>Favonius Codex</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3131,7 +3139,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
@@ -3189,7 +3197,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>4 x Deepwood Memories<br />1 x Viridescent Venerer<br /></td>
+            <td>4 x Gilded Dreams<br />1 x Gladiator's Finale<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -3226,7 +3234,7 @@
   <table>
     <tr>
       <th><h3 align="center">Nilou</h3></th>
-      <th><h3 align="center">Key of Khaj-Nisut</h3></th>
+      <th><h3 align="center">Dull Blade</h3></th>
     </tr>
     <tr>
       <td>
@@ -3240,7 +3248,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Deshret.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Blunt.png"
             width="180"
           />
         </p>
@@ -3285,15 +3293,15 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Key of Khaj-Nisut</td>
+            <td>Dull Blade</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>1</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>90</td>
+            <td>1</td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -5091,7 +5099,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>1 x Gladiator's Finale<br /></td>
+            <td></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -5462,7 +5470,7 @@
   <table>
     <tr>
       <th><h3 align="center">Yun Jin</h3></th>
-      <th><h3 align="center">Primordial Jade Winged-Spear</h3></th>
+      <th><h3 align="center">Favonius Lance</h3></th>
     </tr>
     <tr>
       <td>
@@ -5476,7 +5484,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Morax.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png"
             width="180"
           />
         </p>
@@ -5507,10 +5515,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>
-              1 x Emblem of Severed Fate<br />3 x Husk of Opulent Dreams<br />1
-              x Retracing Bolide<br />
-            </td>
+            <td>4 x Husk of Opulent Dreams<br />1 x Retracing Bolide<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -5522,19 +5527,19 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Primordial Jade Winged-Spear</td>
+            <td>Favonius Lance</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>1</td>
+            <td>90</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
