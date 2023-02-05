@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Feb 05, 2023 00:23 +0800</u> (🤖automated)
+  🕒 Updated at <u>Feb 06, 2023 00:23 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>5</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Sweet Madame</td>
+    <td>2 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>855</td>
+    <td>856</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -396,17 +396,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1181 (-82%)</td>
+    <td>1281 (-80%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1308666 (-82%)</td>
+    <td>1397443 (-81%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (51%)<br />Events: 320 (28%)<br />Daily Activity: 220
-      (19%)<br />Mail: 30 (2%)<br />Adventure: 10 (0%)<br />Other: 1 (0%)<br />Quests:
+      Spiral Abyss: 600 (47%)<br />Events: 320 (25%)<br />Daily Activity: 260
+      (21%)<br />Mail: 90 (7%)<br />Adventure: 10 (0%)<br />Other: 1 (0%)<br />Quests:
       0 (0%)<br />
     </td>
   </tr>
@@ -1868,7 +1868,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>1 x Thundering Fury<br /></td>
+            <td>3 x Thundering Fury<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -3030,10 +3030,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>
-              2 x Thundering Fury<br />2 x Gladiator's Finale<br />1 x
-              Ocean-Hued Clam<br />
-            </td>
+            <td>2 x Gladiator's Finale<br />1 x Ocean-Hued Clam<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
