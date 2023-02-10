@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Feb 10, 2023 00:26 +0800</u> (🤖automated)
+  🕒 Updated at <u>Feb 11, 2023 00:26 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>10</td>
+    <td>11</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>20 x Primogem</td>
   </tr>
 </table>
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>860</td>
+    <td>861</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -324,16 +324,16 @@
         height="18"
       />
       Yelan (14)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Alhatham.png"
-        ,
-        height="18"
-      />
-      Alhaitham (14)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Nahida (14)<br />
+      Nahida (14)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Alhatham.png"
+        ,
+        height="18"
+      />
+      Alhaitham (14)<br />
     </td>
   </tr>
   <tr>
@@ -396,17 +396,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1531 (-77%)</td>
+    <td>1711 (-74%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1662136 (-77%)</td>
+    <td>2466965 (-66%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (40%)<br />Events: 420 (28%)<br />Daily Activity: 380
-      (25%)<br />Mail: 90 (5%)<br />Other: 21 (1%)<br />Adventure: 20 (1%)<br />Quests:
+      Spiral Abyss: 600 (36%)<br />Daily Activity: 500 (29%)<br />Events: 480
+      (28%)<br />Mail: 90 (5%)<br />Other: 21 (1%)<br />Adventure: 20 (1%)<br />Quests:
       0 (0%)<br />
     </td>
   </tr>
@@ -3857,7 +3857,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>4 x Ocean-Hued Clam<br />1 x Shimenawa's Reminiscence<br /></td>
+            <td></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -5262,7 +5262,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td></td>
+            <td>4 x Ocean-Hued Clam<br />1 x Shimenawa's Reminiscence<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -5340,7 +5340,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>0</td>
+            <td>1</td>
           </tr>
           <tr>
             <td>Artifacts</td>
