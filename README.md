@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Feb 14, 2023 00:26 +0800</u> (🤖automated)
+  🕒 Updated at <u>Feb 15, 2023 00:27 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>14</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>5 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -20,11 +20,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>854</td>
+    <td>855</td>
   </tr>
   <tr>
     <td>Days active</td>
-    <td>864</td>
+    <td>865</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td>Common chests opened</td>
-    <td>2351</td>
+    <td>2352</td>
   </tr>
   <tr>
     <td>Exquisite chests opened</td>
@@ -314,6 +314,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (14)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
@@ -328,12 +333,7 @@
         ,
         height="18"
       />
-      Raiden Shogun (14)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (14)<br />
+      Raiden Shogun (14)<br />
     </td>
   </tr>
   <tr>
@@ -396,17 +396,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1791 (-73%)</td>
+    <td>1913 (-71%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2542890 (-65%)</td>
+    <td>3342826 (-55%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (34%)<br />Daily Activity: 560 (32%)<br />Events: 480
-      (26%)<br />Mail: 110 (6%)<br />Other: 21 (1%)<br />Adventure: 20 (1%)<br />Quests:
+      Daily Activity: 680 (36%)<br />Spiral Abyss: 600 (32%)<br />Events: 480
+      (25%)<br />Mail: 110 (5%)<br />Adventure: 22 (1%)<br />Other: 21 (1%)<br />Quests:
       0 (0%)<br />
     </td>
   </tr>
@@ -5254,7 +5254,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>5</td>
+            <td>6</td>
           </tr>
           <tr>
             <td>Constellation</td>
