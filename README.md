@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Feb 15, 2023 00:27 +0800</u> (🤖automated)
+  🕒 Updated at <u>Feb 16, 2023 00:27 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>15</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Adventurer's Experience</td>
+    <td>5 x Fine Enhancement Ore</td>
   </tr>
 </table>
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>865</td>
+    <td>866</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -314,26 +314,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (14)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (14)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Alhatham.png"
         ,
         height="18"
       />
       Alhaitham (14)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (14)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Raiden Shogun (14)<br />
+      Raiden Shogun (14)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (14)<br />
     </td>
   </tr>
   <tr>
@@ -396,18 +396,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1913 (-71%)</td>
+    <td>2053 (-69%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3342826 (-55%)</td>
+    <td>3468017 (-53%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 680 (36%)<br />Spiral Abyss: 600 (32%)<br />Events: 480
-      (25%)<br />Mail: 110 (5%)<br />Adventure: 22 (1%)<br />Other: 21 (1%)<br />Quests:
-      0 (0%)<br />
+      Daily Activity: 680 (34%)<br />Spiral Abyss: 600 (30%)<br />Events: 480
+      (24%)<br />Quests: 120 (5%)<br />Mail: 110 (5%)<br />Other: 41 (1%)<br />Adventure:
+      22 (1%)<br />
     </td>
   </tr>
 </table>
