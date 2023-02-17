@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Feb 17, 2023 00:26 +0800</u> (🤖automated)
+  🕒 Updated at <u>Feb 18, 2023 00:25 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>17</td>
+    <td>18</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>20 x Primogem</td>
   </tr>
 </table>
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>867</td>
+    <td>868</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -396,17 +396,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2213 (-67%)</td>
+    <td>2673 (-60%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3638108 (-51%)</td>
+    <td>4048508 (-45%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 740 (34%)<br />Spiral Abyss: 600 (28%)<br />Events: 560
-      (26%)<br />Quests: 120 (6%)<br />Mail: 110 (4%)<br />Other: 61 (2%)<br />Adventure:
+      Events: 880 (33%)<br />Daily Activity: 860 (33%)<br />Spiral Abyss: 600
+      (23%)<br />Quests: 120 (4%)<br />Mail: 110 (4%)<br />Other: 81 (3%)<br />Adventure:
       22 (0%)<br />
     </td>
   </tr>
@@ -538,7 +538,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>7</td>
+            <td>8</td>
           </tr>
           <tr>
             <td>Constellation</td>
