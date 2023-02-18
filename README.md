@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Feb 18, 2023 00:25 +0800</u> (🤖automated)
+  🕒 Updated at <u>Feb 19, 2023 00:24 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>18</td>
+    <td>19</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primogem</td>
+    <td>3 x Fisherman's Toast</td>
   </tr>
 </table>
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>868</td>
+    <td>869</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -292,15 +292,15 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>63</td>
+    <td>64</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>36</td>
+    <td>23</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>14</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Max Floor</td>
@@ -314,37 +314,37 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Raiden Shogun (14)<br /><img
+      Kaedehara Kazuha (11)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Yelan (14)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+      Yelan (11)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Nahida (14)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Alhatham.png"
+      Bennett (11)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Alhaitham (14)<br />
+      Raiden Shogun (11)<br />
     </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
         ,
         height="18"
       />
-      Raiden Shogun (59)<br />
+      Venti (44)<br />
     </td>
   </tr>
   <tr>
@@ -355,29 +355,29 @@
         ,
         height="18"
       />
-      Raiden Shogun (292653)<br />
+      Raiden Shogun (225278)<br />
     </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Alhatham.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Alhaitham (306572)<br />
+      Kaedehara Kazuha (46731)<br />
     </td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Raiden Shogun (39)<br />
+      Yelan (29)<br />
     </td>
   </tr>
   <tr>
@@ -388,7 +388,7 @@
         ,
         height="18"
       />
-      Yelan (79)<br />
+      Yelan (94)<br />
     </td>
   </tr>
 </table>
@@ -396,17 +396,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2673 (-60%)</td>
+    <td>2733 (-59%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4048508 (-45%)</td>
+    <td>4593294 (-38%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 880 (33%)<br />Daily Activity: 860 (33%)<br />Spiral Abyss: 600
-      (23%)<br />Quests: 120 (4%)<br />Mail: 110 (4%)<br />Other: 81 (3%)<br />Adventure:
+      Daily Activity: 900 (33%)<br />Events: 880 (33%)<br />Spiral Abyss: 600
+      (22%)<br />Mail: 130 (5%)<br />Quests: 120 (5%)<br />Other: 81 (2%)<br />Adventure:
       22 (0%)<br />
     </td>
   </tr>
@@ -546,7 +546,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>3 x Gilded Dreams<br />2 x Deepwood Memories<br /></td>
+            <td>3 x Emblem of Severed Fate<br />2 x Deepwood Memories<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -1121,7 +1121,7 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              3 x Gladiator's Finale<br />1 x Thundering Fury<br />1 x Echoes of
+              2 x Gladiator's Finale<br />2 x Thundering Fury<br />1 x Echoes of
               an Offering<br />
             </td>
           </tr>
@@ -1823,7 +1823,7 @@
   <table>
     <tr>
       <th><h3 align="center">Fischl</h3></th>
-      <th><h3 align="center">The Stringless</h3></th>
+      <th><h3 align="center">Skyward Harp</h3></th>
     </tr>
     <tr>
       <td>
@@ -1837,7 +1837,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Troupe.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Dvalin.png"
             width="180"
           />
         </p>
@@ -1868,7 +1868,10 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>3 x Thundering Fury<br /></td>
+            <td>
+              2 x Thundering Fury<br />2 x Gladiator's Finale<br />1 x
+              Ocean-Hued Clam<br />
+            </td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -1880,11 +1883,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>The Stringless</td>
+            <td>Skyward Harp</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2282,7 +2285,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>4 x Viridescent Venerer<br />1 x Wanderer's Troupe<br /></td>
+            <td>4 x Viridescent Venerer<br />1 x Vermillion Hereafter<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -3030,7 +3033,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>2 x Gladiator's Finale<br />1 x Ocean-Hued Clam<br /></td>
+            <td>1 x Gladiator's Finale<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -3564,7 +3567,7 @@
   <table>
     <tr>
       <th><h3 align="center">Raiden Shogun</h3></th>
-      <th><h3 align="center">Engulfing Lightning</h3></th>
+      <th><h3 align="center">Dragon's Bane</h3></th>
     </tr>
     <tr>
       <td>
@@ -3578,7 +3581,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Narukami.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png"
             width="180"
           />
         </p>
@@ -3609,9 +3612,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>
-              4 x Emblem of Severed Fate<br />1 x Vermillion Hereafter<br />
-            </td>
+            <td>2 x Gilded Dreams<br />3 x Wanderer's Troupe<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -3623,11 +3624,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Engulfing Lightning</td>
+            <td>Dragon's Bane</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3635,7 +3636,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
@@ -3730,7 +3731,7 @@
   <table>
     <tr>
       <th><h3 align="center">Rosaria</h3></th>
-      <th><h3 align="center">Dragon's Bane</h3></th>
+      <th><h3 align="center">Engulfing Lightning</h3></th>
     </tr>
     <tr>
       <td>
@@ -3744,7 +3745,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Narukami.png"
             width="180"
           />
         </p>
@@ -3787,11 +3788,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Dragon's Bane</td>
+            <td>Engulfing Lightning</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3799,7 +3800,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>5</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
@@ -4557,7 +4558,7 @@
   <table>
     <tr>
       <th><h3 align="center">Venti</h3></th>
-      <th><h3 align="center">Skyward Harp</h3></th>
+      <th><h3 align="center">The Stringless</h3></th>
     </tr>
     <tr>
       <td>
@@ -4571,7 +4572,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Dvalin.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Troupe.png"
             width="180"
           />
         </p>
@@ -4614,11 +4615,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Skyward Harp</td>
+            <td>The Stringless</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Level</td>
