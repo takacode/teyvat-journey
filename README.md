@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Feb 19, 2023 00:24 +0800</u> (🤖automated)
+  🕒 Updated at <u>Feb 20, 2023 00:24 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>19</td>
+    <td>20</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fisherman's Toast</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -314,26 +314,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (11)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (11)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Bennett (11)<br /><img
+      Bennett (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Raiden Shogun (11)<br />
+      Raiden Shogun (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (12)<br />
     </td>
   </tr>
   <tr>
@@ -366,18 +366,18 @@
         ,
         height="18"
       />
-      Kaedehara Kazuha (46731)<br />
+      Kaedehara Kazuha (53252)<br />
     </td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Yelan (29)<br />
+      Bennett (34)<br />
     </td>
   </tr>
   <tr>
@@ -388,7 +388,7 @@
         ,
         height="18"
       />
-      Yelan (94)<br />
+      Yelan (116)<br />
     </td>
   </tr>
 </table>
@@ -396,17 +396,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2733 (-59%)</td>
+    <td>3353 (-50%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4593294 (-38%)</td>
+    <td>4740544 (-36%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 900 (33%)<br />Events: 880 (33%)<br />Spiral Abyss: 600
-      (22%)<br />Mail: 130 (5%)<br />Quests: 120 (5%)<br />Other: 81 (2%)<br />Adventure:
+      Spiral Abyss: 1200 (36%)<br />Daily Activity: 920 (28%)<br />Events: 880
+      (27%)<br />Mail: 130 (4%)<br />Quests: 120 (3%)<br />Other: 81 (2%)<br />Adventure:
       22 (0%)<br />
     </td>
   </tr>
@@ -5255,7 +5255,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>6</td>
+            <td>7</td>
           </tr>
           <tr>
             <td>Constellation</td>
