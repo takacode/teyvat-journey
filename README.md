@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Feb 20, 2023 00:24 +0800</u> (🤖automated)
+  🕒 Updated at <u>Feb 21, 2023 00:26 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>20</td>
+    <td>21</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>869</td>
+    <td>870</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -314,16 +314,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
@@ -333,7 +323,17 @@
         ,
         height="18"
       />
-      Kaedehara Kazuha (12)<br />
+      Kaedehara Kazuha (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (12)<br />
     </td>
   </tr>
   <tr>
@@ -396,17 +396,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3353 (-50%)</td>
+    <td>3413 (-49%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4740544 (-36%)</td>
+    <td>5285463 (-29%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 1200 (36%)<br />Daily Activity: 920 (28%)<br />Events: 880
-      (27%)<br />Mail: 130 (4%)<br />Quests: 120 (3%)<br />Other: 81 (2%)<br />Adventure:
+      Spiral Abyss: 1200 (36%)<br />Daily Activity: 980 (29%)<br />Events: 880
+      (26%)<br />Mail: 130 (4%)<br />Quests: 120 (3%)<br />Other: 81 (2%)<br />Adventure:
       22 (0%)<br />
     </td>
   </tr>
