@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Feb 23, 2023 00:26 +0800</u> (🤖automated)
+  🕒 Updated at <u>Feb 24, 2023 00:27 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>23</td>
+    <td>24</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>872</td>
+    <td>873</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -324,16 +324,16 @@
         height="18"
       />
       Bennett (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Raiden Shogun (12)<br />
+      Raiden Shogun (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (12)<br />
     </td>
   </tr>
   <tr>
@@ -373,11 +373,11 @@
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Bennett (34)<br />
+      Yelan (34)<br />
     </td>
   </tr>
   <tr>
@@ -396,17 +396,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3533 (-47%)</td>
+    <td>3593 (-46%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5505976 (-26%)</td>
+    <td>5589968 (-25%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 1200 (34%)<br />Daily Activity: 1100 (32%)<br />Events: 880
-      (25%)<br />Mail: 130 (4%)<br />Quests: 120 (3%)<br />Other: 81 (2%)<br />Adventure:
+      Spiral Abyss: 1200 (34%)<br />Daily Activity: 1160 (33%)<br />Events: 880
+      (25%)<br />Mail: 130 (3%)<br />Quests: 120 (3%)<br />Other: 81 (2%)<br />Adventure:
       22 (0%)<br />
     </td>
   </tr>
