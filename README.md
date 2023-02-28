@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Feb 28, 2023 00:27 +0800</u> (🤖automated)
+  🕒 Updated at <u>Mar 01, 2023 00:27 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>28</td>
+    <td>1</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Hero's Wit</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>877</td>
+    <td>878</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -324,16 +324,16 @@
         height="18"
       />
       Bennett (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (12)<br />
+      Kaedehara Kazuha (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (12)<br />
     </td>
   </tr>
   <tr>
@@ -396,17 +396,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4013 (-40%)</td>
+    <td>4133 (-38%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>6209294 (-16%)</td>
+    <td>6376256 (-14%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1340 (34%)<br />Spiral Abyss: 1200 (30%)<br />Events: 1120
-      (28%)<br />Mail: 130 (4%)<br />Quests: 120 (2%)<br />Other: 81 (2%)<br />Adventure:
+      Daily Activity: 1460 (36%)<br />Spiral Abyss: 1200 (30%)<br />Events: 1120
+      (28%)<br />Mail: 130 (3%)<br />Quests: 120 (2%)<br />Other: 81 (1%)<br />Adventure:
       22 (0%)<br />
     </td>
   </tr>
