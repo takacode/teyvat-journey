@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Mar 01, 2023 00:27 +0800</u> (🤖automated)
+  🕒 Updated at <u>Mar 02, 2023 00:27 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>1</td>
+    <td>2</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>3 x Fine Enhancement Ore</td>
   </tr>
 </table>
 
@@ -24,11 +24,11 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>878</td>
+    <td>879</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>63</td>
+    <td>64</td>
   </tr>
   <tr>
     <td>Waypoints unlocked</td>
@@ -277,11 +277,11 @@
   </tr>
   <tr>
     <td>Comfort</td>
-    <td>Fit for a King (25680)</td>
+    <td>Fit for a King (25980)</td>
   </tr>
   <tr>
     <td>Items</td>
-    <td>4108</td>
+    <td>4113</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -292,15 +292,15 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>64</td>
+    <td>65</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>23</td>
+    <td>55</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>12</td>
+    <td>20</td>
   </tr>
   <tr>
     <td>Max Floor</td>
@@ -314,59 +314,59 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Bennett (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (12)<br /><img
+      Bennett (20)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Yelan (12)<br />
+      Yelan (16)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (16)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (12)<br />
     </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Venti (44)<br />
+      Hu Tao (47)<br />
     </td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Raiden Shogun (225278)<br />
+      Hu Tao (322513)<br />
     </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Dehya.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (53252)<br />
+      Dehya (161364)<br />
     </td>
   </tr>
   <tr>
@@ -377,7 +377,7 @@
         ,
         height="18"
       />
-      Bennett (34)<br />
+      Bennett (73)<br />
     </td>
   </tr>
   <tr>
@@ -388,7 +388,7 @@
         ,
         height="18"
       />
-      Yelan (116)<br />
+      Yelan (231)<br />
     </td>
   </tr>
 </table>
@@ -396,18 +396,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4133 (-38%)</td>
+    <td>1340 (-67%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>6376256 (-14%)</td>
+    <td>901111 (-85%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1460 (36%)<br />Spiral Abyss: 1200 (30%)<br />Events: 1120
-      (28%)<br />Mail: 130 (3%)<br />Quests: 120 (2%)<br />Other: 81 (1%)<br />Adventure:
-      22 (0%)<br />
+      Mail: 660 (50%)<br />Spiral Abyss: 600 (45%)<br />Daily Activity: 60
+      (4%)<br />Events: 20 (1%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Other:
+      0 (0%)<br />
     </td>
   </tr>
 </table>
@@ -546,7 +546,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>3 x Emblem of Severed Fate<br />2 x Deepwood Memories<br /></td>
+            <td>5 x Deepwood Memories<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -792,7 +792,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td></td>
+            <td>5 x Husk of Opulent Dreams<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -829,7 +829,7 @@
   <table>
     <tr>
       <th><h3 align="center">Barbara</h3></th>
-      <th><h3 align="center">Thrilling Tales of Dragon Slayers</h3></th>
+      <th><h3 align="center">Favonius Codex</h3></th>
     </tr>
     <tr>
       <td>
@@ -843,7 +843,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Pulpfic.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Zephyrus.png"
             width="180"
           />
         </p>
@@ -886,11 +886,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Thrilling Tales of Dragon Slayers</td>
+            <td>Favonius Codex</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>3</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1285,7 +1285,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>3</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Artifacts</td>
@@ -1399,6 +1399,88 @@
           <tr>
             <td>Refinement</td>
             <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary><b>Dehya</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Dehya</h3></th>
+      <th><h3 align="center">Wolf's Gravestone</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Dehya.png"
+            width="180"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Wolfmound.png"
+            width="180"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>Pyro</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>90</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>2</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Artifacts</td>
+            <td>5 x Emblem of Severed Fate<br /></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td>Wolf's Gravestone</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>90</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
@@ -1575,7 +1657,7 @@
   <table>
     <tr>
       <th><h3 align="center">Dori</h3></th>
-      <th><h3 align="center">Wolf's Gravestone</h3></th>
+      <th><h3 align="center">Waster Greatsword</h3></th>
     </tr>
     <tr>
       <td>
@@ -1589,7 +1671,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Wolfmound.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Aniki.png"
             width="180"
           />
         </p>
@@ -1632,19 +1714,19 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Wolf's Gravestone</td>
+            <td>Waster Greatsword</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>1</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>90</td>
+            <td>1</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>5</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
@@ -1739,7 +1821,7 @@
   <table>
     <tr>
       <th><h3 align="center">Faruzan</h3></th>
-      <th><h3 align="center">Favonius Warbow</h3></th>
+      <th><h3 align="center">Blackcliff Warbow</h3></th>
     </tr>
     <tr>
       <td>
@@ -1753,7 +1835,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Zephyrus.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Blackrock.png"
             width="180"
           />
         </p>
@@ -1798,7 +1880,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Favonius Warbow</td>
+            <td>Blackcliff Warbow</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -1806,11 +1888,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>90</td>
+            <td>1</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>5</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
@@ -1823,7 +1905,7 @@
   <table>
     <tr>
       <th><h3 align="center">Fischl</h3></th>
-      <th><h3 align="center">Skyward Harp</h3></th>
+      <th><h3 align="center">The Viridescent Hunt</h3></th>
     </tr>
     <tr>
       <td>
@@ -1837,7 +1919,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Dvalin.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Viridescent.png"
             width="180"
           />
         </p>
@@ -1883,11 +1965,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Skyward Harp</td>
+            <td>The Viridescent Hunt</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1895,7 +1977,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>5</td>
+            <td>3</td>
           </tr>
         </table>
       </td>
@@ -1990,7 +2072,7 @@
   <table>
     <tr>
       <th><h3 align="center">Gorou</h3></th>
-      <th><h3 align="center">Blackcliff Warbow</h3></th>
+      <th><h3 align="center">Favonius Warbow</h3></th>
     </tr>
     <tr>
       <td>
@@ -2004,7 +2086,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Blackrock.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Zephyrus.png"
             width="180"
           />
         </p>
@@ -2035,9 +2117,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>
-              1 x Emblem of Severed Fate<br />4 x Husk of Opulent Dreams<br />
-            </td>
+            <td>4 x Husk of Opulent Dreams<br />1 x Retracing Bolide<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2049,7 +2129,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Blackcliff Warbow</td>
+            <td>Favonius Warbow</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -2057,11 +2137,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>1</td>
+            <td>90</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
@@ -2120,7 +2200,8 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              4 x Crimson Witch of Flames<br />1 x Wanderer's Troupe<br />
+              2 x Crimson Witch of Flames<br />1 x Pale Flame<br />1 x
+              Wanderer's Troupe<br />1 x Gladiator's Finale<br />
             </td>
           </tr>
           <tr>
@@ -2451,7 +2532,10 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>4 x Blizzard Strayer<br />1 x Viridescent Venerer<br /></td>
+            <td>
+              2 x Blizzard Strayer<br />2 x Gladiator's Finale<br />1 x
+              Viridescent Venerer<br />
+            </td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2533,7 +2617,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>4 x Heart of Depth<br />1 x Gladiator's Finale<br /></td>
+            <td>4 x Heart of Depth<br />1 x Crimson Witch of Flames<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2864,8 +2948,8 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              2 x Tenacity of the Millelith<br />2 x Emblem of Severed Fate<br />1
-              x Shimenawa's Reminiscence<br />
+              1 x Tenacity of the Millelith<br />1 x Heart of Depth<br />1 x
+              Shimenawa's Reminiscence<br />1 x Emblem of Severed Fate<br />
             </td>
           </tr>
           <tr>
@@ -2903,7 +2987,7 @@
   <table>
     <tr>
       <th><h3 align="center">Layla</h3></th>
-      <th><h3 align="center">Key of Khaj-Nisut</h3></th>
+      <th><h3 align="center">Dull Blade</h3></th>
     </tr>
     <tr>
       <td>
@@ -2917,7 +3001,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Deshret.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Blunt.png"
             width="180"
           />
         </p>
@@ -2949,8 +3033,8 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              2 x Tenacity of the Millelith<br />2 x Blizzard Strayer<br />1 x
-              Deepwood Memories<br />
+              3 x Blizzard Strayer<br />1 x Noblesse Oblige<br />1 x Deepwood
+              Memories<br />
             </td>
           </tr>
           <tr>
@@ -2963,15 +3047,15 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Key of Khaj-Nisut</td>
+            <td>Dull Blade</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>1</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>90</td>
+            <td>1</td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -3070,7 +3154,7 @@
   <table>
     <tr>
       <th><h3 align="center">Mona</h3></th>
-      <th><h3 align="center">Favonius Codex</h3></th>
+      <th><h3 align="center">Thrilling Tales of Dragon Slayers</h3></th>
     </tr>
     <tr>
       <td>
@@ -3084,7 +3168,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Zephyrus.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Pulpfic.png"
             width="180"
           />
         </p>
@@ -3115,7 +3199,9 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>4 x Heart of Depth<br /></td>
+            <td>
+              4 x Tenacity of the Millelith<br />1 x Noblesse Oblige<br />
+            </td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -3127,11 +3213,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Favonius Codex</td>
+            <td>Thrilling Tales of Dragon Slayers</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>3</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3234,7 +3320,7 @@
   <table>
     <tr>
       <th><h3 align="center">Nilou</h3></th>
-      <th><h3 align="center">Dull Blade</h3></th>
+      <th><h3 align="center">Key of Khaj-Nisut</h3></th>
     </tr>
     <tr>
       <td>
@@ -3248,7 +3334,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Blunt.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Deshret.png"
             width="180"
           />
         </p>
@@ -3280,7 +3366,8 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              2 x Flower of Paradise Lost<br />3 x Tenacity of the Millelith<br />
+              2 x Flower of Paradise Lost<br />1 x Tenacity of the Millelith<br />1
+              x Heart of Depth<br />
             </td>
           </tr>
           <tr>
@@ -3293,15 +3380,15 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Dull Blade</td>
+            <td>Key of Khaj-Nisut</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>1</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>1</td>
+            <td>90</td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -4227,7 +4314,7 @@
   <table>
     <tr>
       <th><h3 align="center">Tartaglia</h3></th>
-      <th><h3 align="center">The Viridescent Hunt</h3></th>
+      <th><h3 align="center">Skyward Harp</h3></th>
     </tr>
     <tr>
       <td>
@@ -4241,7 +4328,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Viridescent.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Dvalin.png"
             width="180"
           />
         </p>
@@ -4273,8 +4360,8 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              1 x Blizzard Strayer<br />2 x Noblesse Oblige<br />2 x Heart of
-              Depth<br />
+              3 x Heart of Depth<br />1 x Noblesse Oblige<br />1 x Blizzard
+              Strayer<br />
             </td>
           </tr>
           <tr>
@@ -4287,11 +4374,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>The Viridescent Hunt</td>
+            <td>Skyward Harp</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -4299,7 +4386,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>3</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
@@ -4357,7 +4444,9 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>4 x Noblesse Oblige<br /></td>
+            <td>
+              3 x Noblesse Oblige<br />1 x Tenacity of the Millelith<br />
+            </td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -5015,7 +5104,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>1 x Emblem of Severed Fate<br />1 x Heart of Depth<br /></td>
+            <td>2 x Crimson Witch of Flames<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -5180,7 +5269,8 @@
           <tr>
             <td>Artifacts</td>
             <td>
-              3 x Crimson Witch of Flames<br />1 x Gladiator's Finale<br />
+              2 x Crimson Witch of Flames<br />1 x Emblem of Severed Fate<br />1
+              x Gladiator's Finale<br />
             </td>
           </tr>
           <tr>
@@ -5513,7 +5603,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>4 x Husk of Opulent Dreams<br />1 x Retracing Bolide<br /></td>
+            <td>1 x Heart of Depth<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
