@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Mar 02, 2023 00:27 +0800</u> (🤖automated)
+  🕒 Updated at <u>Mar 03, 2023 00:27 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>2</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -20,11 +20,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>855</td>
+    <td>856</td>
   </tr>
   <tr>
     <td>Days active</td>
-    <td>879</td>
+    <td>880</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -296,7 +296,7 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>55</td>
+    <td>111</td>
   </tr>
   <tr>
     <td>Total Wins</td>
@@ -396,17 +396,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1340 (-67%)</td>
+    <td>1420 (-65%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>901111 (-85%)</td>
+    <td>1191411 (-81%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 660 (50%)<br />Spiral Abyss: 600 (45%)<br />Daily Activity: 60
-      (4%)<br />Events: 20 (1%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Other:
+      Mail: 660 (47%)<br />Spiral Abyss: 600 (43%)<br />Daily Activity: 120
+      (8%)<br />Events: 20 (1%)<br />Adventure: 20 (1%)<br />Quests: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
@@ -546,7 +546,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>5 x Deepwood Memories<br /></td>
+            <td>4 x Gilded Dreams<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -792,7 +792,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>5 x Husk of Opulent Dreams<br /></td>
+            <td>3 x Husk of Opulent Dreams<br />1 x Heart of Depth<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -993,7 +993,7 @@
   <table>
     <tr>
       <th><h3 align="center">Bennett</h3></th>
-      <th><h3 align="center">Mistsplitter Reforged</h3></th>
+      <th><h3 align="center">Freedom-Sworn</h3></th>
     </tr>
     <tr>
       <td>
@@ -1007,7 +1007,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Narukami.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Widsith.png"
             width="180"
           />
         </p>
@@ -1050,7 +1050,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Mistsplitter Reforged</td>
+            <td>Freedom-Sworn</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -2117,7 +2117,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>4 x Husk of Opulent Dreams<br />1 x Retracing Bolide<br /></td>
+            <td>2 x Husk of Opulent Dreams<br />1 x Retracing Bolide<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2321,7 +2321,7 @@
   <table>
     <tr>
       <th><h3 align="center">Kaedehara Kazuha</h3></th>
-      <th><h3 align="center">Freedom-Sworn</h3></th>
+      <th><h3 align="center">Toukabou Shigure</h3></th>
     </tr>
     <tr>
       <td>
@@ -2335,7 +2335,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Widsith.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Kasabouzu.png"
             width="180"
           />
         </p>
@@ -2378,11 +2378,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Freedom-Sworn</td>
+            <td>Toukabou Shigure</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2390,7 +2390,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
@@ -2487,7 +2487,7 @@
   <table>
     <tr>
       <th><h3 align="center">Kamisato Ayaka</h3></th>
-      <th><h3 align="center">Festering Desire</h3></th>
+      <th><h3 align="center">Haran Geppaku Futsu</h3></th>
     </tr>
     <tr>
       <td>
@@ -2501,7 +2501,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Magnum.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Amenoma.png"
             width="180"
           />
         </p>
@@ -2547,11 +2547,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Festering Desire</td>
+            <td>Haran Geppaku Futsu</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2559,7 +2559,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>5</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
@@ -2572,7 +2572,7 @@
   <table>
     <tr>
       <th><h3 align="center">Kamisato Ayato</h3></th>
-      <th><h3 align="center">Haran Geppaku Futsu</h3></th>
+      <th><h3 align="center">Festering Desire</h3></th>
     </tr>
     <tr>
       <td>
@@ -2586,7 +2586,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Amenoma.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Magnum.png"
             width="180"
           />
         </p>
@@ -2629,11 +2629,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Haran Geppaku Futsu</td>
+            <td>Festering Desire</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2641,7 +2641,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
@@ -2902,7 +2902,7 @@
   <table>
     <tr>
       <th><h3 align="center">Kuki Shinobu</h3></th>
-      <th><h3 align="center">Toukabou Shigure</h3></th>
+      <th><h3 align="center">Xiphos' Moonlight</h3></th>
     </tr>
     <tr>
       <td>
@@ -2916,7 +2916,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Kasabouzu.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Pleroma.png"
             width="180"
           />
         </p>
@@ -2947,10 +2947,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>
-              1 x Tenacity of the Millelith<br />1 x Heart of Depth<br />1 x
-              Shimenawa's Reminiscence<br />1 x Emblem of Severed Fate<br />
-            </td>
+            <td></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -2962,7 +2959,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Toukabou Shigure</td>
+            <td>Xiphos' Moonlight</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -2974,7 +2971,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>5</td>
+            <td>2</td>
           </tr>
         </table>
       </td>
@@ -3283,7 +3280,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>4 x Gilded Dreams<br />1 x Gladiator's Finale<br /></td>
+            <td>5 x Deepwood Memories<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -3572,7 +3569,7 @@
   <table>
     <tr>
       <th><h3 align="center">Qiqi</h3></th>
-      <th><h3 align="center">Xiphos' Moonlight</h3></th>
+      <th><h3 align="center">Mistsplitter Reforged</h3></th>
     </tr>
     <tr>
       <td>
@@ -3586,7 +3583,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Pleroma.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Narukami.png"
             width="180"
           />
         </p>
@@ -3617,7 +3614,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>4 x Maiden Beloved<br />1 x Bloodstained Chivalry<br /></td>
+            <td>2 x Gilded Dreams<br />3 x Wanderer's Troupe<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -3629,11 +3626,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Xiphos' Moonlight</td>
+            <td>Mistsplitter Reforged</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3641,7 +3638,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>2</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
@@ -3699,7 +3696,10 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>2 x Gilded Dreams<br />3 x Wanderer's Troupe<br /></td>
+            <td>
+              1 x Tenacity of the Millelith<br />1 x Gilded Dreams<br />1 x
+              Shimenawa's Reminiscence<br />1 x Emblem of Severed Fate<br />
+            </td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -3818,7 +3818,7 @@
   <table>
     <tr>
       <th><h3 align="center">Rosaria</h3></th>
-      <th><h3 align="center">Engulfing Lightning</h3></th>
+      <th><h3 align="center">Favonius Lance</h3></th>
     </tr>
     <tr>
       <td>
@@ -3832,7 +3832,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Narukami.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png"
             width="180"
           />
         </p>
@@ -3875,11 +3875,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Engulfing Lightning</td>
+            <td>Favonius Lance</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -3887,7 +3887,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
@@ -4277,7 +4277,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>4 x Viridescent Venerer<br /></td>
+            <td>4 x Viridescent Venerer<br />1 x Gladiator's Finale<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -4314,7 +4314,7 @@
   <table>
     <tr>
       <th><h3 align="center">Tartaglia</h3></th>
-      <th><h3 align="center">Skyward Harp</h3></th>
+      <th><h3 align="center">The Stringless</h3></th>
     </tr>
     <tr>
       <td>
@@ -4328,7 +4328,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Dvalin.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Troupe.png"
             width="180"
           />
         </p>
@@ -4374,11 +4374,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Skyward Harp</td>
+            <td>The Stringless</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -4647,7 +4647,7 @@
   <table>
     <tr>
       <th><h3 align="center">Venti</h3></th>
-      <th><h3 align="center">The Stringless</h3></th>
+      <th><h3 align="center">Skyward Harp</h3></th>
     </tr>
     <tr>
       <td>
@@ -4661,7 +4661,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Troupe.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Dvalin.png"
             width="180"
           />
         </p>
@@ -4692,7 +4692,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>4 x Viridescent Venerer<br />1 x Gilded Dreams<br /></td>
+            <td>4 x Viridescent Venerer<br />1 x Vermillion Hereafter<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -4704,11 +4704,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>The Stringless</td>
+            <td>Skyward Harp</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -5558,7 +5558,7 @@
   <table>
     <tr>
       <th><h3 align="center">Yun Jin</h3></th>
-      <th><h3 align="center">Favonius Lance</h3></th>
+      <th><h3 align="center">Engulfing Lightning</h3></th>
     </tr>
     <tr>
       <td>
@@ -5572,7 +5572,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Narukami.png"
             width="180"
           />
         </p>
@@ -5603,7 +5603,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>1 x Heart of Depth<br /></td>
+            <td>5 x Husk of Opulent Dreams<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -5615,11 +5615,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Favonius Lance</td>
+            <td>Engulfing Lightning</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -5627,7 +5627,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>5</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
