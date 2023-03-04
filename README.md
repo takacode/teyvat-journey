@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Mar 04, 2023 00:25 +0800</u> (🤖automated)
+  🕒 Updated at <u>Mar 05, 2023 00:24 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>4</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primogem</td>
+    <td>3 x Sweet Madame</td>
   </tr>
 </table>
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>881</td>
+    <td>882</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -281,11 +281,11 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>4113</td>
+    <td>4114</td>
   </tr>
   <tr>
     <td>Visitors</td>
-    <td>82</td>
+    <td>83</td>
   </tr>
 </table>
 <h2>Spiral Abyss</h2>
@@ -319,21 +319,21 @@
         height="18"
       />
       Bennett (20)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (16)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
       Yelan (16)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (12)<br />
+      Xingqiu (16)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Dehya.png"
+        ,
+        height="18"
+      />
+      Dehya (12)<br />
     </td>
   </tr>
   <tr>
@@ -396,17 +396,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1700 (-58%)</td>
+    <td>1880 (-54%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1533840 (-75%)</td>
+    <td>1780145 (-72%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 660 (39%)<br />Spiral Abyss: 600 (36%)<br />Events: 240 (14%)<br />Daily
-      Activity: 180 (10%)<br />Adventure: 20 (1%)<br />Quests: 0 (0%)<br />Other:
+      Mail: 680 (37%)<br />Spiral Abyss: 600 (32%)<br />Events: 340 (18%)<br />Daily
+      Activity: 240 (12%)<br />Adventure: 20 (1%)<br />Quests: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
@@ -1448,7 +1448,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>2</td>
+            <td>3</td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -2821,7 +2821,7 @@
   <table>
     <tr>
       <th><h3 align="center">Kujou Sara</h3></th>
-      <th><h3 align="center">Elegy for the End</h3></th>
+      <th><h3 align="center">Fading Twilight</h3></th>
     </tr>
     <tr>
       <td>
@@ -2835,7 +2835,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Widsith.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Fallensun.png"
             width="180"
           />
         </p>
@@ -2878,11 +2878,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Elegy for the End</td>
+            <td>Fading Twilight</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -2890,7 +2890,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
@@ -5350,7 +5350,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>8</td>
+            <td>9</td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -5395,7 +5395,7 @@
   <table>
     <tr>
       <th><h3 align="center">Yelan</h3></th>
-      <th><h3 align="center">Fading Twilight</h3></th>
+      <th><h3 align="center">Elegy for the End</h3></th>
     </tr>
     <tr>
       <td>
@@ -5409,7 +5409,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Fallensun.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Widsith.png"
             width="180"
           />
         </p>
@@ -5454,11 +5454,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Fading Twilight</td>
+            <td>Elegy for the End</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -5466,7 +5466,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>5</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
