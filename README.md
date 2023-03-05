@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Mar 05, 2023 00:24 +0800</u> (🤖automated)
+  🕒 Updated at <u>Mar 06, 2023 00:24 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>5</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Sweet Madame</td>
+    <td>2 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>882</td>
+    <td>883</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -285,7 +285,7 @@
   </tr>
   <tr>
     <td>Visitors</td>
-    <td>83</td>
+    <td>84</td>
   </tr>
 </table>
 <h2>Spiral Abyss</h2>
@@ -319,16 +319,16 @@
         height="18"
       />
       Bennett (20)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (16)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
       Xingqiu (16)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (16)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Dehya.png"
         ,
         height="18"
@@ -396,17 +396,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1880 (-54%)</td>
+    <td>2120 (-48%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1780145 (-72%)</td>
+    <td>2070968 (-67%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 680 (37%)<br />Spiral Abyss: 600 (32%)<br />Events: 340 (18%)<br />Daily
-      Activity: 240 (12%)<br />Adventure: 20 (1%)<br />Quests: 0 (0%)<br />Other:
+      Mail: 680 (33%)<br />Spiral Abyss: 600 (29%)<br />Events: 550 (26%)<br />Daily
+      Activity: 270 (12%)<br />Adventure: 20 (0%)<br />Quests: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
@@ -1742,7 +1742,7 @@
   <table>
     <tr>
       <th><h3 align="center">Eula</h3></th>
-      <th><h3 align="center">Wolf's Gravestone</h3></th>
+      <th><h3 align="center">Mailed Flower</h3></th>
     </tr>
     <tr>
       <td>
@@ -1756,7 +1756,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Wolfmound.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Fleurfair.png"
             width="180"
           />
         </p>
@@ -1799,11 +1799,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Wolf's Gravestone</td>
+            <td>Mailed Flower</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1811,7 +1811,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>4</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
