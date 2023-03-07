@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Mar 07, 2023 00:27 +0800</u> (🤖automated)
+  🕒 Updated at <u>Mar 08, 2023 00:26 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>7</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>884</td>
+    <td>885</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -319,21 +319,21 @@
         height="18"
       />
       Bennett (20)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (16)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
       Xingqiu (16)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (12)<br />
+      Yelan (16)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Dehya.png"
+        ,
+        height="18"
+      />
+      Dehya (12)<br />
     </td>
   </tr>
   <tr>
@@ -396,17 +396,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2270 (-45%)</td>
+    <td>2330 (-43%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2133450 (-66%)</td>
+    <td>2231017 (-65%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 740 (33%)<br />Spiral Abyss: 600 (27%)<br />Events: 550 (25%)<br />Daily
-      Activity: 360 (15%)<br />Adventure: 20 (0%)<br />Quests: 0 (0%)<br />Other:
+      Mail: 740 (32%)<br />Spiral Abyss: 600 (26%)<br />Events: 550 (24%)<br />Daily
+      Activity: 420 (18%)<br />Adventure: 20 (0%)<br />Quests: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
@@ -1448,7 +1448,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>3</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Constellation</td>
