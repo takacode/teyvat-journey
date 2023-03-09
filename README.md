@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Mar 09, 2023 00:27 +0800</u> (🤖automated)
+  🕒 Updated at <u>Mar 10, 2023 00:28 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>9</td>
+    <td>10</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>885</td>
+    <td>887</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -396,17 +396,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2330 (-43%)</td>
+    <td>2410 (-41%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2231017 (-65%)</td>
+    <td>2371268 (-62%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 740 (32%)<br />Spiral Abyss: 600 (26%)<br />Events: 550 (24%)<br />Daily
-      Activity: 420 (18%)<br />Adventure: 20 (0%)<br />Quests: 0 (0%)<br />Other:
+      Mail: 740 (31%)<br />Spiral Abyss: 600 (25%)<br />Events: 550 (23%)<br />Daily
+      Activity: 500 (21%)<br />Adventure: 20 (0%)<br />Quests: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
@@ -3952,7 +3952,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>4 x Ocean-Hued Clam<br />1 x Shimenawa's Reminiscence<br /></td>
+            <td></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -5358,7 +5358,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td></td>
+            <td>4 x Ocean-Hued Clam<br />1 x Shimenawa's Reminiscence<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
