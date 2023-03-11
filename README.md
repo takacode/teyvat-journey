@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Mar 11, 2023 00:27 +0800</u> (🤖automated)
+  🕒 Updated at <u>Mar 12, 2023 00:23 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>11</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primogem</td>
+    <td>3 x Fried Radish Balls</td>
   </tr>
 </table>
 
@@ -20,11 +20,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>856</td>
+    <td>860</td>
   </tr>
   <tr>
     <td>Days active</td>
-    <td>888</td>
+    <td>889</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -52,11 +52,11 @@
   </tr>
   <tr>
     <td>Common chests opened</td>
-    <td>2352</td>
+    <td>2355</td>
   </tr>
   <tr>
     <td>Exquisite chests opened</td>
-    <td>1522</td>
+    <td>1523</td>
   </tr>
   <tr>
     <td>Precious chests opened</td>
@@ -329,11 +329,11 @@
         height="18"
       />
       Xingqiu (16)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Dehya.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Dehya (12)<br />
+      Kaedehara Kazuha (12)<br />
     </td>
   </tr>
   <tr>
@@ -396,18 +396,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2790 (-32%)</td>
+    <td>3032 (-26%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2930568 (-54%)</td>
+    <td>3215941 (-49%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 890 (32%)<br />Mail: 740 (27%)<br />Spiral Abyss: 600 (22%)<br />Daily
-      Activity: 540 (19%)<br />Adventure: 20 (0%)<br />Quests: 0 (0%)<br />Other:
-      0 (0%)<br />
+      Events: 980 (33%)<br />Mail: 760 (26%)<br />Daily Activity: 600 (20%)<br />Spiral
+      Abyss: 600 (19%)<br />Quests: 60 (1%)<br />Adventure: 31 (1%)<br />Other:
+      1 (0%)<br />
     </td>
   </tr>
 </table>
@@ -1147,7 +1147,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>3</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
@@ -1448,7 +1448,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -1811,7 +1811,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
