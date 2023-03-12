@@ -1,6 +1,6 @@
 <h1 align="center">TakaGG's Teyvat Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Mar 12, 2023 00:23 +0800</u> (🤖automated)
+  🕒 Updated at <u>Mar 13, 2023 00:22 +0800</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>12</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fried Radish Balls</td>
+    <td>2 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days active</td>
-    <td>889</td>
+    <td>890</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -319,21 +319,21 @@
         height="18"
       />
       Bennett (20)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (16)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
       Xingqiu (16)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (12)<br />
+      Yelan (16)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Dehya.png"
+        ,
+        height="18"
+      />
+      Dehya (12)<br />
     </td>
   </tr>
   <tr>
@@ -396,17 +396,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3032 (-26%)</td>
+    <td>3122 (-24%)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3215941 (-49%)</td>
+    <td>3330087 (-47%)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 980 (33%)<br />Mail: 760 (26%)<br />Daily Activity: 600 (20%)<br />Spiral
-      Abyss: 600 (19%)<br />Quests: 60 (1%)<br />Adventure: 31 (1%)<br />Other:
+      Events: 1010 (33%)<br />Mail: 760 (25%)<br />Daily Activity: 660 (22%)<br />Spiral
+      Abyss: 600 (19%)<br />Quests: 60 (1%)<br />Adventure: 31 (0%)<br />Other:
       1 (0%)<br />
     </td>
   </tr>
